@@ -16,5 +16,5 @@ Steps:
 4. Write one card per link, in the order given. No skipped links.
 5. Add the On the Radar block and the sign-off.
 6. Save the plain version to `output/YYYY-MM-DD-daily.md`.
-7. Then fill `templates/daily-template.md` (Title, Excerpt of the whole page, then each item as headline line plus summary ending in Source:) and save it to `output/YYYY-MM-DD-daily-website.md`.
+7. Then fill `templates/daily-template.md` (Title, Excerpt of the whole page, then each item as a bold headline line, the summary on the next line, and an italic Source line below it) and save it to `output/YYYY-MM-DD-daily-website.md`.
 8. Print the website version in full. After it, outside the daily, list: repeats flagged, links that were blocked and how you covered them, and anything you couldn't verify.
