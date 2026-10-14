@@ -30,7 +30,7 @@ Do NOT cover war/geopolitics, general India news, or social media trends. If a f
 - If a link can't be opened (blocked/paywalled): search harder for other coverage of the same story and write from that, citing those outlets. If nothing is found, write a headline-based card and flag it at the very end, outside the daily.
 - Before writing, check `output/` for earlier dailies. If a story was already covered, flag it to Veddika as a repeat and let her decide; don't silently drop or repeat it.
 - End with an **On the Radar** block (upcoming dates), then the sign-off: `That's your daily. — EBD.`
-- Then write it into the website template in `templates/daily-template.md` (Title, Excerpt, Description; plain text, no emojis, sources comma-separated on the same paragraph as the summary). The template's format overrides the card format above for the website version.
+- Then write it into the website template in `templates/daily-template.md` (Title, Excerpt, Description; no emojis; in the Description each item is the headline in bold, the summary on the next line, then the comma-separated sources in italics on their own line). The template's format overrides the card format above for the website version.
 
 ## Keeping usage low
 - Use WebSearch first for facts; open a page with WebFetch only when you need its details.
