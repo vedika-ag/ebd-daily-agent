@@ -1,0 +1,101 @@
+Title: UPI MDR Deferral Eases D2C Festive Margins, Traya in Talks to Raise ₹300 Crore & Udaan Returns to Growth With 13% Revenue Rise
+
+Excerpt: NPCI's deferral of the 0.4% UPI MDR to after Diwali spares D2C brands the fee through peak festive sales, hair-care brand Traya is in talks to raise about ₹300 crore from Verlinvest at a ₹2,500-3,000 crore valuation, and Udaan's FY26 revenue rose 13% to ₹5,134 crore, its first growth in four years.
+
+Description:
+
+**UPI MDR deferment gives D2C brands festive-season margin relief**
+NPCI has pushed the 0.4% merchant fee on UPI payments above ₹2,000, due from October 15, to after Diwali, sparing merchants the charge through peak festive sales. The fee is paid by merchants and capped at ₹300 for transactions of ₹75,000 or more. The structure is unchanged and a new date is yet to be notified.
+*Source: Economic Times, Business Standard, The Hitavada*
+
+**Traya in talks to raise around ₹300 crore from Verlinvest**
+Hair-care brand Traya is in early talks to raise about ₹300 crore from Belgium-based Verlinvest at a ₹2,500-3,000 crore valuation, in a mix of primary and secondary shares. Its annualised revenue run rate is put at ₹900-1,000 crore; in FY25, operating revenue rose 43% to ₹338.4 crore while it posted a ₹22.5 crore loss.
+*Source: Inc42*
+
+**Udaan returns to growth after four years with 13% rise in revenue**
+B2B ecommerce platform Udaan's FY26 revenue rose 13% to ₹5,134 crore, its first growth after four years of decline, ahead of its own 10-12% guidance. It also cut its net loss by about 19%. The company credits a shift to a cluster-led model after shrinking from about 80 cities to 16 clusters.
+*Source: ET Retail, Newsbytes*
+
+**Myntra's Instagram affiliate programme crosses 1 million sign-ups in a month**
+Myntra's affiliate programme on Instagram, built with Meta, crossed 1 million sign-ups within a month, with 200,000 creators already posting content. Its Facebook programme, launched in June, has 1.3 million sign-ups and over 650,000 active creators, and creators have published about 3 million posts across both. Myntra expects creator posts to roughly double during its Big Fashion Festival.
+*Source: ET Retail, Social Samosa, MediaBrief*
+
+**Online mobile sales may not ring loud this Navratri**
+Average online festive discounts on smartphones have narrowed to 10-25% from 25-40% last year as brands raise prices to offset higher chip costs, according to Counterpoint. Smartphone unit sales fell 16% year-on-year in the first ecommerce Navratri sale window, and Counterpoint expects festive volumes to fall 12% while value grows 5%.
+*Source: ET Retail, PCQuest*
+
+**D2C share of ecommerce projected to reach 30% by 2030**
+A report by Google, WPP Media and Elevation Capital projects D2C online sales growing 4.5x by 2030 into a $72 billion revenue pool, lifting D2C brands' share of ecommerce from 18% to 30%. Based on Kantar research with 1,500 respondents, it found 79% of challenger-brand buyers doubt a brand they can't find on Google Search.
+*Source: Storyboard18, Indian Television, MarketingMind*
+
+**Customers raise concerns over Swiggy Instamart's Noice brand**
+Customers have posted claims of flies in a sealed pack of atta, a worm in a Noice French Chocolate Rocher and mould in a cake from Instamart's private label Noice. Refunds were issued, but Swiggy had not publicly responded, and the images have not been independently verified.
+*Source: ET Retail, LatestLY, Punjab Kesari*
+
+**Wholesale inflation jumps to 11.39% in September**
+WPI inflation rose to 11.39% in September from 9.92% in August, its highest on the current series, driven by food, fuel and manufactured goods. Manufactured products inflation climbed to 9.76% from 8.37%.
+*Source: Business Standard*
+
+**Creator economy draws 15-25% of brand marketing budgets: IIGC**
+A report by the IIGC, based on a survey of more than 100 brands and marketers, finds 15-25% of brand marketing budgets are shifting to creator-led marketing. Brands are using creators for launches, customer acquisition and ecommerce growth, measuring them on results rather than reach, and moving from one-off campaigns to long-term partnerships.
+*Source: afaqs!, Social Samosa, Storyboard18*
+
+**Circle raises ₹25 crore to expand its pre-owned goods marketplace beyond Bengaluru**
+Pre-owned goods marketplace Circle raised ₹25 crore in a seed round led by Nexus Venture Partners, with Titan Capital, Myntra co-founder Raveen Sastry and Delhivery COO Ajith Pai participating. It runs a managed C2C model handling verification, payments, logistics and payouts without holding inventory, and says it facilitated about ₹25 crore in sales in its first year. The funds will go into expansion and AI-led pricing, discovery and verification.
+*Source: Inc42, Entrackr, Indian Startup News*
+
+**The Stack raises ₹21.5 crore to broaden its supplements portfolio**
+Supplements brand The Stack raised ₹21.5 crore in a seed round co-led by Sauce.vc, OTP Ventures and Huddle Ventures, with AYRA Ventures participating. It says it has grown 5x since its ₹5.5 crore pre-seed round in January and is targeting 6-7x growth in FY27. The funds will go into hiring, R&D and new products including iron and Omega-3 supplements.
+*Source: Inc42, Entrepreneur India*
+
+**Former Dyson India boss Ankit Jain raises ₹12 crore for appliance venture Foundry**
+Ankit Jain, former Dyson India MD, has launched Foundry, a premium home-appliances company, with a ₹12 crore pre-seed round co-led by BEENEXT and Kettleborough VC. Angels including Plix's Rishubh Satiya participated. Its first range will focus on kitchen appliances, with a launch planned for the second half of 2027.
+*Source: Inc42, Entrackr, Entrepreneur India*
+
+**How Fix My Curls built its quick commerce engine from scratch**
+Curly-hair care brand Fix My Curls rebuilt its quick commerce playbook around pack sizes, pricing, inventory planning and logistics, and quick commerce is now a profitable channel that takes it to nearly 70 cities. Marketplaces account for about 45% of its sales, quick commerce 30% and its own website 15-20%. The brand, founded by Anshita Mehrotra in 2019, reported FY25 revenue of ₹21.42 crore.
+*Source: Inc42*
+
+**Vantrock to invest ₹3,000 crore over four years in logistics and warehousing parks**
+Mumbai-based Vantrock Real Assets plans to invest over ₹3,000 crore to build 11.5 million sq ft of industrial, logistics and warehousing space, citing demand from ecommerce, light manufacturing and 3PL firms. The first 3 million sq ft will come up in Delhi-NCR, Bengaluru and Pune, with construction from 2027 and rental income from 2028.
+*Source: Business Standard, Maritime Gateway*
+
+**ShipMaxx360 spins out as a full-stack partner for ecommerce brands**
+Logistics and commerce-enablement platform ShipMaxx360 has separated from Losung360 into an independent company. It is targeting more than 10,000 ecommerce and D2C brands by 2027.
+*Source: The Tribune*
+
+**Quick-commerce platforms see mixed user trends; Blinkit's iOS share rises to 46%: CLSA**
+A CLSA report on quick-commerce app usage shows mixed user trends across platforms, with Blinkit's share among iOS users rising to 46%.
+*Source: ET Retail*
+
+**Meesho and Nykaa Fashion see stronger year-on-year user growth during festive period: CLSA**
+CLSA's tracking of ecommerce apps shows Meesho and Nykaa Fashion recording stronger year-on-year user growth than peers during the festive period.
+*Source: ET Retail*
+
+**80% of MSMEs expect a better festive season, 66% report additional funding needs: NeoGrowth**
+A NeoGrowth survey finds 80% of MSMEs expect a better festive season, with 66% reporting additional funding needs. NeoGrowth's earlier 2026 research found 86% of MSMEs expect business growth this year and about half plan to take a business loan.
+*Source: ET Retail, NewKerala*
+
+**D2C beauty brands take their businesses offline**
+Indian Retailer lists five D2C beauty brands expanding into physical retail as the category turns omnichannel, with stores used to cut trial risk in colour cosmetics, fragrances and premium skincare. Examples in the wider coverage include Sugar Cosmetics' presence in over 45,000 retail outlets and Insight Cosmetics' plan for 60 exclusive outlets by end-2026.
+*Source: Indian Retailer, D2C Bazaar, The D2C Pulse*
+
+**AJVC leads ₹2.5 crore pre-seed round in home-furnishing startup wudhomes**
+Bengaluru-based wudhomes, which makes custom living-room furniture, raised ₹2.5 crore in a pre-seed round led by AJVC, with Seekho co-founders and other angels participating. Founded in 2025 by Vasu Arneja and Aditya Singh, it has furnished over 200 homes and runs a store on Sarjapur Road. The funds will go into a vertically integrated supply chain, in-house tech and retail expansion.
+*Source: Entrackr, Indian Startup Times*
+
+**Aegis Logistics to acquire 89.8% stake in Dubai-based Tristar for $809 million**
+Aegis Logistics' board approved buying an 89.8% stake in Tristar Holdings, a Dubai-based liquid logistics and tanker group, for $809 million through its Singapore subsidiary. Tristar reported FY25 revenue of $1.4 billion and EBITDA of $257 million. The deal is subject to regulatory approvals and targeted to close by end-March 2027.
+*Source: The Hindu BusinessLine, Splash247, Dalal Street Investment Journal*
+
+**Amazon's Great Indian Festival still live, Flipkart's next sale expected around October 23**
+Amazon's Great Indian Festival, which opened on October 8, is still live with no end date announced. Flipkart's next Diwali sale is expected to restart around October 23; Flipkart has not announced dates.
+*Source: Couponscrew, DesiDime*
+
+**Q2 results season for listed ecommerce and consumer-internet companies**
+Nykaa, Lenskart, Swiggy, Eternal, Meesho and Honasa report Q2 results in the coming weeks. Jefferies expects Nykaa's Q2 profit to rise 158% year-on-year and Lenskart's 81%.
+*Source: Business Today*
+
+**UPI MDR to start after Diwali, Diwali on November 8**
+NPCI will notify a post-Diwali date for the 0.4% MDR on P2M UPI payments above ₹2,000. Diwali falls on November 8.
+*Source: Business Standard, Outlook Business*
