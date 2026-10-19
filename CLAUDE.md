@@ -20,6 +20,8 @@ Three sections, in this order, emoji headers:
 2. 🛒 **Ecommerce & D2C Pulse**: overnight news in ecommerce, D2C, quick commerce, marketplaces, funding, policy/regulation (GST, FSSAI, UPI, ONDC).
 3. 📅 **On the Radar**: upcoming sales, deadlines, events.
 
+**On the Radar repeats (brief and daily):** Don't repeat standing radar items day after day. Leave out the caller name display (CNAP, 1 Nov) item, and leave out festive sale status (Amazon Great Indian Festival still live, Flipkart's next Diwali sale) unless there is a new major update, such as officially announced dates or a sale ending.
+
 Do NOT cover war/geopolitics, general India news, or social media trends. If a figure is unverified, mark it as such.
 
 ## EBD Daily rules
