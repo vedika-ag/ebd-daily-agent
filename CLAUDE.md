@@ -25,6 +25,7 @@ Three sections, in this order, emoji headers:
 Do NOT cover war/geopolitics, general India news, or social media trends. If a figure is unverified, mark it as such.
 
 ## EBD Daily rules
+- **How the two fit together:** the brief is Veddika's own read on the market each morning; the daily is what gets published on the EBD website. When building the daily, also check that day's brief in `output/` and carry over its meaningful Ecommerce & D2C Pulse items as cards, even if she doesn't ask. Don't carry over market numbers (Sensex, Nifty, FII/DII, Brent, rupee). If one of her links covers the same story, merge them into one card. Tell her which brief items were added.
 - One card per article Veddika submits. **Cover every link, skip none.**
 - Card format: emoji + **bold headline**, 2 to 3 sentence summary with the key data points, then `*Source: Publication*`.
 - **Summary only.** No opinions, no "so what" commentary, no "why it matters", no links in the output, no section headers inside the daily.
