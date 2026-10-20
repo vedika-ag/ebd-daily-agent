@@ -33,7 +33,7 @@ MakeMyTrip is in talks to acquire car and bike pooling platform Quick Ride throu
 *Source: Entrackr*
 
 **Curefoods pilots budget food delivery app MegaBite**
-Cloud kitchen operator Curefoods is piloting MegaBite, a budget food delivery app live only in Bengaluru's HSR Layout, with dishes priced at ₹49-199 and no delivery or platform fees. It serves food from Curefoods brands including Krispy Kreme, Olio Pizza, Rolls On Wheels and Eatfit. Curefoods shut an earlier in-house delivery service in 2024 over high delivery costs.
+Cloud kitchen operator Curefoods is piloting MegaBite, a budget food delivery app live only in Bengaluru's HSR Layout, with dishes priced at ₹49-199 and no delivery or platform fees. It serves food from Curefoods brands including Krispy Kreme, Olio Pizza, Rolls On Wheels and Eatfit. Curefoods launched an in-house delivery channel in 2022 but shut it within two years because of high delivery costs.
 *Source: Inc42*
 
 **Deconstruct revenue grows 25x in three years to ₹165 crore in FY26**
