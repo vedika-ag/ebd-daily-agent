@@ -20,7 +20,11 @@ Three sections, in this order, emoji headers:
 2. 🛒 **Ecommerce & D2C Pulse**: overnight news in ecommerce, D2C, quick commerce, marketplaces, funding, policy/regulation (GST, FSSAI, UPI, ONDC).
 3. 📅 **On the Radar**: upcoming sales, deadlines, events.
 
-**On the Radar repeats (brief and daily):** Don't repeat standing radar items day after day. Leave out the caller name display (CNAP, 1 Nov) item, and leave out festive sale status (Amazon Great Indian Festival still live, Flipkart's next Diwali sale) unless there is a new major update, such as officially announced dates or a sale ending.
+**On the Radar rule (brief and daily): each item appears once.**
+- Before adding a radar item, check earlier briefs and dailies in `output/`. If the item (an event, deadline, sale, rule or result date) has already appeared in any earlier brief or daily, leave it out.
+- Bring an item back only if there is a genuinely new development, such as an officially announced date, a postponement or cancellation, or the event's outcome (for example, results actually published). Write it as the new development, not as a reminder.
+- The brief and the daily are tracked separately: an item can appear once in the brief and once in the daily.
+- If nothing new qualifies, leave the On the Radar section out entirely. Don't pad it with repeats.
 
 Do NOT cover war/geopolitics, general India news, or social media trends. If a figure is unverified, mark it as such.
 
@@ -32,7 +36,7 @@ Do NOT cover war/geopolitics, general India news, or social media trends. If a f
 - Write publication names out in full (Economic Times, not ET). No "(headline)" tags in source lines.
 - If a link can't be opened (blocked/paywalled): search harder for other coverage of the same story and write from that, citing those outlets. If nothing is found, write a headline-based card and flag it at the very end, outside the daily.
 - Before writing, check `output/` for earlier dailies. If a story was already covered, flag it to Veddika as a repeat and let her decide; don't silently drop or repeat it.
-- End with an **On the Radar** block (upcoming dates), then the sign-off: `That's your daily. — EBD.`
+- End with an **On the Radar** block (upcoming dates, following the once-only On the Radar rule above; leave the block out if nothing new qualifies), then the sign-off: `That's your daily. — EBD.`
 - Then write it into the website template in `templates/daily-template.md` (Title, Excerpt, Description; no emojis; in the Description each item is the headline in bold, the summary on the next line, then the comma-separated sources in italics on their own line). The template's format overrides the card format above for the website version.
 
 ## Keeping usage low

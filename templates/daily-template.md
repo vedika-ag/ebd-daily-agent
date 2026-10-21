@@ -25,7 +25,7 @@ Rules for this template:
 - Title and Excerpt stay plain text (no bold or italics).
 - Sources are comma-separated, full publication names (Economic Times, ET Retail, Moneycontrol, Inc42, Entrackr, The Hindu BusinessLine). Include the original publication first, then any other outlets whose coverage you used.
 - Repeat stories already published in an earlier daily are dropped or folded into the Description only if there is a genuinely new development. Tell Veddika outside the template.
-- On the Radar items (upcoming dates, sales, deadlines) are written as items in the Description in the same format, placed last. Each one is a bold headline line, a summary line and an italic Source line.
+- On the Radar items (upcoming dates, sales, deadlines) are written as items in the Description in the same format, placed last. Each radar item appears only once across all dailies (see the On the Radar rule in CLAUDE.md); leave them out if nothing new qualifies. Each one is a bold headline line, a summary line and an italic Source line.
 
 Reference example (an approved page):
 

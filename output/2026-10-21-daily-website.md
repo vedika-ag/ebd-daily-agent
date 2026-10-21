@@ -51,11 +51,3 @@ Amazon plans to hire more than 300,000 US workers for the holiday season, about 
 **Amazon may cut 5,000 delivery jobs and shut 15 warehouses in New York City**
 Amazon could cut about 5,000 contract delivery jobs and close 15 New York City warehouses if the city passes the proposed Delivery Protection Act, which would require it to directly hire drivers now employed through about 40 contractors. Another 2,000 warehouse workers could be affected. The bill has not been put to a vote.
 *Source: India Today, Business Today, Newsbytes*
-
-**Eternal reports Q2 results today, Swiggy on October 22**
-Eternal, which owns Zomato and Blinkit, reports September-quarter results on October 21, with brokerages expecting Blinkit market-share gains and about 250 new dark stores. Swiggy reports on October 22.
-*Source: Business Standard, Kalkine, Screener*
-
-**UPI MDR to start after Diwali on November 8**
-Diwali falls on November 8, after which NPCI will notify a start date for the 0.4% UPI MDR on P2M payments above ₹2,000.
-*Source: Business Standard, Outlook Business*
