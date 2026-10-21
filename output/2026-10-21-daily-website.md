@@ -1,0 +1,61 @@
+Title: CCPA Delists 3,940 Explosives Sellers Across Seven Platforms, Flipkart Eyes October-End Food Delivery Launch & India Online Retail to Cross $90 Billion
+
+Excerpt: The CCPA had 3,940 explosives listings removed from seven platforms including IndiaMART and Justdial, Flipkart is reportedly set to launch Eat-in by Minutes by the end of October at a 10% restaurant commission, and Redseer expects India's online retail market to cross $90 billion in 2026 as grocery overtakes mobiles.
+
+Description:
+
+**CCPA targets online sale of explosives, 3,940 sellers delisted across seven platforms**
+The Central Consumer Protection Authority had 3,940 seller listings of regulated explosives such as ammonium nitrate, gunpowder, picric acid and PETN removed from seven platforms: IndiaMART, TradeIndia, Dial4Trade, Justdial, Sigma-Aldrich India, ExportersIndia and Ibuychemikals. Dial4Trade and ExportersIndia were fined ₹10 lakh each, and the National Consumer Disputes Redressal Commission dismissed Dial4Trade's appeal.
+*Source: ET Retail, Business Standard, Zee Business*
+
+**IndiaMART and Justdial booked by CCPA over explosive product listings**
+The Central Consumer Protection Authority has issued notices to IndiaMART and Justdial over listings that facilitated the sale of explosive substances such as ammonium nitrate. IndiaMART had the most affected sellers and listings at 3,092, and Justdial had 206. Proceedings against both are ongoing.
+*Source: Inc42, Zee Business*
+
+**Flipkart eyes October-end launch for food delivery service**
+Flipkart has told restaurants it expects a public launch of its Eat-in by Minutes food delivery service by the end of October, with expansion to five or six cities by year-end, according to the National Restaurant Association of India's Sagar Daryani. It is reportedly offering restaurants a base commission of around 10%, against the 20-25% typically charged by Zomato and Swiggy. Flipkart has not confirmed the date or commission.
+*Source: Inc42, TechCrunch, BestMediaInfo*
+
+**India's online retail market to cross $90 billion in 2026, grocery to overtake mobiles**
+Redseer expects India's online retail market to cross $90 billion in 2026, growing 22-24%, its fastest pace in five years, after about $38 billion of GMV in the first half. Grocery's share is projected to rise to 19% from 16%, while mobiles fall to about 16% from 19% as higher prices limit phone sales growth to 2-3%. Quick commerce and value commerce are the main growth drivers.
+*Source: ET Retail, Business Standard, BW Businessworld*
+
+**Myntra spends ₹2,326 crore on advertising for ₹5,242 crore revenue in FY26**
+Myntra's advertising spend rose 10.5% to about ₹2,326.5 crore in FY26, its largest expense at about 41% of the total, while revenue from operations fell 13.5% to ₹5,242.5 crore. Its own advertising services revenue rose 35.2% to ₹1,236.4 crore. It posted a net loss of ₹579.4 crore.
+*Source: Entrackr, Exchange4media, Storyboard18*
+
+**FMCG brands turn up the volume on ads as costs and scrutiny rise**
+FMCG companies are raising ad budgets despite input-cost pressure and tighter FSSAI scrutiny of food advertising. In Q1 FY27, Colgate-Palmolive India's ad spend rose about 34%, Marico's 25% and Dabur's 14%, and eight listed consumer firms spent ₹2,905 crore on advertising, up 8.7%. Nestle India's ad spend rose 46% in the September quarter against 20.5% revenue growth.
+*Source: ET Retail, Exchange4media, Whalesbook*
+
+**Navratri shoppers splurge on clothes and appliances as gadgets get pricier**
+Apparel and home appliance sales grew more than 20% over Navratri and Dussehra, supported by easy financing, while electronics volumes fell as rising component costs pushed up prices.
+*Source: ET Retail, Whalesbook*
+
+**FSSAI directs food businesses to follow labelling norms and warnings for plant-based ingredients**
+FSSAI has issued an advisory asking makers of health supplements, nutraceuticals and special dietary and medical foods to follow existing labelling and warning requirements for botanical ingredients listed in Schedule IV of its 2016 regulations. Violations could lead to action under the Food Safety and Standards Act, 2006.
+*Source: The New Indian Express, Daijiworld, The Federal*
+
+**YatriKart and MMG Group sign ₹120 crore deal to open 1,000 retail stores**
+Transit retail chain YatriKart has partnered with MMG Group to open 1,000 quick-stop convenience stores over five years at petrol pumps, highways, hospitals and transit hubs, at about ₹12 lakh per outlet. MMG will fund store capex while YatriKart runs operations, staffing, technology and supply chain. YatriKart currently runs more than 80 stores across eight cities.
+*Source: Business Standard, Lapaas Voice*
+
+**Quick home services ad spends surge as sector eyes ₹13.2 billion run rate by December 2026**
+Quick home services platforms are raising festive marketing budgets, with most spend going to performance channels such as search, app installs and paid social. A Redseer and Google report projects the segment's annualised run rate at ₹8.8-13.2 billion by December 2026. Yes Madam spent ₹49 crore on marketing in FY26.
+*Source: Exchange4media, Storyboard18*
+
+**Amazon to recruit over 300,000 workers for holiday season, its first hiring jump in three years**
+Amazon plans to hire more than 300,000 US workers for the holiday season, about 20% more than last year's 250,000 and its largest seasonal target. Seasonal staff will earn $20 an hour on average, and from January 1, 2027, those working 30 or more hours a week will get healthcare from day one.
+*Source: ET Retail, Bloomberg, Fox Business*
+
+**Amazon may cut 5,000 delivery jobs and shut 15 warehouses in New York City**
+Amazon could cut about 5,000 contract delivery jobs and close 15 New York City warehouses if the city passes the proposed Delivery Protection Act, which would require it to directly hire drivers now employed through about 40 contractors. Another 2,000 warehouse workers could be affected. The bill has not been put to a vote.
+*Source: India Today, Business Today, Newsbytes*
+
+**Eternal reports Q2 results today, Swiggy on October 22**
+Eternal, which owns Zomato and Blinkit, reports September-quarter results on October 21, with brokerages expecting Blinkit market-share gains and about 250 new dark stores. Swiggy reports on October 22.
+*Source: Business Standard, Kalkine, Screener*
+
+**UPI MDR to start after Diwali on November 8**
+Diwali falls on November 8, after which NPCI will notify a start date for the 0.4% UPI MDR on P2M payments above ₹2,000.
+*Source: Business Standard, Outlook Business*
