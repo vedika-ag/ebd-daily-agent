@@ -1,0 +1,61 @@
+Title: Eternal Q2 Profit Rises 92% but Misses Estimates, Blinkit Targets 3,500 Stores by FY27 & Flipkart's Big Billion Days Orders Grow 20-22%
+
+Excerpt: Eternal's Q2 profit rose 92% to ₹125 crore but missed estimates as Blinkit turned EBITDA-positive and raised its store target to 3,500 by March 2027, while Flipkart said orders and buyers in its Big Billion Days sale grew 20-22% year-on-year.
+
+Description:
+
+**Eternal's quarterly profit misses estimates as Blinkit expansion costs weigh**
+Eternal's Q2 FY27 profit rose 92% to ₹125 crore, below estimates of ₹250-274 crore, as Blinkit's expansion costs weighed. Revenue rose 78% to ₹24,138 crore and adjusted EBITDA nearly tripled to ₹666 crore. Blinkit's revenue rose about 94% to ₹19,152 crore and it posted adjusted EBITDA of about ₹184 crore against a ₹156 crore loss a year ago, after adding 308 stores to reach 2,751.
+*Source: Reuters, Business Standard, YourStory*
+
+**Blinkit expects to cross 3,500 stores by FY27; CEO bullish on small cities**
+Blinkit expects to cross 3,500 stores by March 2027, up from 2,751 now and above its earlier guidance of 3,000, and sees about 5,000 by March 2028. New stores in smaller cities reach about 1,000 orders a day as fast as metro stores, with average order values at 85-90% of metro levels, though building supply chains there remains a challenge.
+*Source: ET Retail, Business Today, Newsbytes*
+
+**Blinkit sees no compelling case for expanding private labels, says Dhindsa**
+Blinkit CEO Albinder Dhindsa said the company does not see a compelling case for building its own brands, given the investment needed in product development, manufacturing, quality control and marketing. Blinkit will stay a discovery and distribution platform for third-party brands, using shelf space to earn advertising revenue. Rival Swiggy Instamart is expanding its private label Noice.
+*Source: ET Retail, Whalesbook*
+
+**Flipkart's Big Billion Days sees orders and buyers grow 20-22% year-on-year**
+Flipkart's 11-day Big Billion Days sale, which began on October 9, saw orders, units and buyers each grow about 20-22% year-on-year, and nearly 9 in 10 of India's online shoppers visited the platform. Nearly half of buyers were Gen Z and about 60% came from Tier 2 and smaller cities. Seller sales were 3.5 times business-as-usual levels.
+*Source: ET Retail, Business Standard, afaqs!*
+
+**Small-town shoppers drive strong start to India's festival online sales**
+Flipkart, Amazon and Meesho are seeing strong festive demand from smaller towns and first-time buyers, while quick commerce and food delivery have seen limited gains, with Zepto's average daily users down 2% in the first six days of the sales, according to a BofA report. Myntra's monthly active users rose 8% year-on-year to about 93 million in September.
+*Source: Business Standard*
+
+**Eternal and Swiggy expected to report strong Q2 growth; quick-commerce profitability in focus**
+Ahead of Swiggy's Q2 results on October 22, Kotak estimates Instamart's net order value will grow 37% and food delivery gross order value 19%, with Instamart's adjusted EBITDA loss widening to about ₹840 crore from ₹780 crore in the June quarter. Swiggy planned to add around 75 Instamart dark stores in the quarter.
+*Source: Economic Times, Kotak Neo, BW Disrupt*
+
+**FSSAI issues notices to Nestle India and Zydus Wellness over misleading claims**
+FSSAI has asked Nestle India to justify a whey protein digestibility claim on Lactogen Pro 1 and claims on Nan Excella Pro Stage 1, and Zydus Wellness to back growth, immunity and cognitive claims on Complan. Both must submit scientific evidence and explain why action should not be taken under the Food Safety and Standards Act, 2006.
+*Source: ET Retail, Business Standard, Storyboard18*
+
+**FSSAI notice to Nestle, Abbott, Nutricia, Mead Johnson and an influencer over illegal Instagram ads**
+FSSAI has issued notices to Nestle India, Abbott Healthcare, Nutricia International, Mead Johnson Nutrition and an Instagram influencer over a Reel promoting a "Top 5" list of infant formulas, including Nan-Pro 1, Aptamil, Similac and Enfamil. FSSAI said the promotion appears to breach the Infant Milk Substitutes Act, 1992.
+*Source: ET Retail, Deccan Chronicle, Newsbytes*
+
+**Innovist revenue surges 2.8x to ₹686 crore in FY26; profit grows 87%**
+Personal care brand house Innovist's operating revenue rose to ₹685.7 crore in FY26 from ₹246.7 crore, and net profit rose 87% to ₹21.5 crore. Advertising and promotion spend roughly tripled to ₹262 crore, its biggest cost. L'Oréal announced in June that it would acquire a majority stake in the company.
+*Source: Entrackr, Storyboard18, D2C Insider*
+
+**How Pee Safe built a profitable quick commerce business that drives 40% of domestic sales**
+Quick commerce now contributes nearly 40% of hygiene brand Pee Safe's domestic revenue, with double-digit contribution margins against single-digit margins on traditional ecommerce. The brand spent nearly two years struggling to keep products in stock on quick-commerce platforms before overhauling its supply chain and assortment.
+*Source: Inc42, D2C Insider*
+
+**Walmart adds AI agent shopping features while Amazon blocks bots**
+Walmart will let approved third-party AI agents search inventory and buy on customers' behalf through its Agent Gateway, with Agent Profiles that let customers set approvals or spending limits launching in November. Amazon has moved the other way, blocking shopping agents from Perplexity, Meta and Google.
+*Source: Business Insider, TechCrunch, Adweek*
+
+**AI is changing how consumers discover brands, and D2C players are taking note**
+AI assistants are becoming another place where shoppers research and compare products, and D2C brands are reworking product information, reviews and brand signals to be recommended. An Adobe survey cited in coverage found 36% of US ChatGPT users had discovered a new product or brand through it, rising to 47% among Gen Z.
+*Source: afaqs!, Chitrangana*
+
+**Zomato parent Eternal to swap Adonmo stake for ₹156 crore of Mygate shares**
+Eternal will exchange its entire stake in digital ad firm Adonmo for Mygate shares worth about ₹156 crore as part of a proposed Mygate-Adonmo merger, giving it an estimated 4.4% stake in the combined entity. Eternal invested ₹112 crore in Adonmo in January 2022. The swap is expected to close by December 5.
+*Source: Business Standard, YourStory*
+
+**eBay to cut 1,000 more jobs, about 9% of its workforce**
+eBay will cut about 1,000 jobs, roughly 9% of its workforce, as it shifts resources toward its fastest-growing businesses, after about 800 cuts in February. The two rounds together remove about 1,800 jobs.
+*Source: ET Retail, Quartz, KRON4*
