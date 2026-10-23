@@ -40,6 +40,11 @@ Do NOT cover war/geopolitics, general India news, or social media trends. If a f
 - Then write it into the website template in `templates/daily-template.md` (Title, Excerpt, Description; no emojis; in the Description each item is the headline in bold, the summary on the next line, then the comma-separated sources in italics on their own line). The template's format overrides the card format above for the website version.
 
 ## Keeping usage low
-- Use WebSearch first for facts; open a page with WebFetch only when you need its details.
-- For blocked links: at most 3 searches per story before falling back.
+- **One session per day.** Start a fresh session for each day's brief and daily (or run `/clear` between days). Everything needed carries over through this file and the archive in `output/`; a long-running session re-sends its whole history on every turn, which is the biggest cost.
+- **Search mode:** use `standard` WebSearch by default. Use `extended` only when a standard search for that fact came back empty or off-date.
+- **Don't WebFetch sites that block this agent:** Economic Times, ET Retail, Inc42, Business Standard, Moneycontrol, The Hindu BusinessLine, afaqs!, Indian Retailer, TradingView. Go straight to WebSearch for these.
+- **Search budget for the brief:** about 8 searches in total. Markets take 3: closes plus open, FII/DII plus rupee, and Brent. Use 1 search for any upcoming results or dates worth checking, and up to 4 for ecommerce news. If today's open isn't published yet, mark it "couldn't verify" after one try; don't retry.
+- **Search budget for the daily:** 1 search per link. Do a 2nd only if the key numbers are still missing, and a 3rd only before falling back to a headline-based card. Reuse facts already gathered in that day's brief instead of searching again.
+- **Don't re-search** markets or stories already verified earlier in the same session.
+- **Keep chat output short:** print the brief in full, but for the daily print only the website version and a short flags list. Don't repeat the plain version.
 - Don't re-read files you've already read this session.
