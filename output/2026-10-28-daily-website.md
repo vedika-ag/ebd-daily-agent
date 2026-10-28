@@ -1,0 +1,49 @@
+Title: 71% of Quick Commerce Users Pick Value Over Speed This Diwali, Tata Motors and Amazon to Deploy 3,000 Electric Trucks & New-Age Brands Win 21.7% of Kirana Sales
+
+Excerpt: A LocalCircles survey finds 71% of quick commerce users will choose a festive platform on value while only 22% prioritise speed, Tata Motors and Amazon will deploy 3,000 electric trucks for ecommerce logistics within three years, and digital-first brands' share of kirana sales rose to 21.7% from 14.8% as they push beyond online.
+
+Description:
+
+**71% of quick commerce users put value ahead of speed for Diwali shopping; Amazon Now leads festive preference: LocalCircles**
+A LocalCircles survey of over 204,000 responses across 130 districts found 71% of quick commerce users will pick a festive platform on best price or overall value, followed by product quality (65%), availability (46%) and low or no extra charges (43%). Only 22% named fast delivery. Amazon Now was the most preferred platform for last-minute festive shopping at 22%, while Blinkit was the most used for everyday purchases, and about six in 10 users said delivery, handling or small-cart fees often push their bill above expectations.
+*Source: Fortune India, Economic Times Retail, The Wire, ThePrint, Outlook Money*
+
+**Why this festive season is getting more expensive for ecommerce sellers**
+Amazon has raised its closing fee by ₹1 per item up to ₹500 and ₹3 above that, and moved to a cancellation charge of up to 10% of order value. Flipkart now charges ₹30 for a late dispatch, ₹60 for a cancellation and ₹90 for a delayed-then-cancelled order, and is considering a revision to fulfilment fees. Delhivery has added a surcharge of ₹4 per express and ₹2 per surface shipment for D2C brands, citing fuel, staff and network costs.
+*Source: Inc42, The Week*
+
+**Tata Motors and Amazon to deploy 3,000 electric trucks for ecommerce logistics**
+Tata Motors will supply 3,000 electric trucks, to be owned and run by Amazon's carrier partners, with all of them on the road within three years. The first fleet of Tata Ultra E.7 trucks starts middle-mile runs in Delhi, and the programme will extend along the 2,800 km Delhi-Bengaluru-Chennai corridor on NH48. Amazon says it is the largest electric truck deployment by an ecommerce company in India.
+*Source: Economic Times, Business Standard, Free Press Journal, Daily Excelsior*
+
+**New-age brands win kirana shelf space from legacy FMCG players**
+Digital-first brands' share of kirana sales rose to 21.7% in H1 FY27 from 14.8% a year earlier, while legacy players' share fell to 78.3% from 85.2%, per retail intelligence platform Bizom, which tracks 10 million kirana outlets. Shopkeepers are giving these brands more shelf space for better margins and niche products, though the move offline adds distribution costs.
+*Source: Economic Times, Whalesbook*
+
+**Blue Dart launches cross-border parcel shipping service**
+Blue Dart's International Parcel Connect, powered by DHL eCommerce, began on October 26 with shipments from India to the US, offering Standard and Expedited delivery for parcels from 50 grams to 11 kg. It targets ecommerce businesses, D2C brands, marketplace sellers and small exporters, with the UK, EU, Canada and Australia planned next.
+*Source: The Hindu, Daily Excelsior, The Machine Maker*
+
+**Rural Gen Z leads online shopping and AI adoption: WPP Media-Kantar**
+Gen Z makes up 33% of rural mobile users and buys across 19.1 product categories a month, up from 17.0 in February 2025; 39.4% shopped online against a rural average of 29.6%. About 60.4% of rural Gen Z use at least one AI feature, such as image-based product search, and 14.7% buy directly after viewing creator content.
+*Source: exchange4media, Storyboard18, MediaBrief*
+
+**Healthy snacking brand Troovy bags ₹100 crore to expand offline and enter new categories**
+Troovy's ₹100 crore Series B was led by existing investor Fireside Ventures, with Sharrp Ventures participating, and is its third round in about 17 months. The brand is building offline distribution starting with Delhi NCR and will enter namkeen, cookies and biscuits from January 2027. Funds will also go to manufacturing capacity, R&D and quick commerce distribution.
+*Source: Inc42, Entrepreneur India, Indian Startup News*
+
+**IndiaMART bets on AI to sharpen its edge as marketplace activity softens**
+IndiaMART's Q2 FY27 net profit rose 9.8% year on year to ₹90.8 crore and revenue grew 9.6% to ₹428.6 crore, with a 37% EBITDA margin against a 33% long-term target. Active buyers fell 7% to 40 million and unique business enquiries fell 14% to 27 million. The company says more than 20 AI initiatives are live, including voice AI serving about 100,000 buyers.
+*Source: Economic Times Retail, Inc42, Free Press Journal, GuruFocus*
+
+**Quick commerce boom creates a new demand segment for electric two-wheeler makers: BCG**
+BCG identifies full-time quick commerce and food delivery riders, who cover 400–500 km a week, as a distinct buyer group; 72% rank affordability highest, followed by speed (55%) and manoeuvrability (50%). India's quick commerce industry grew from about $750 million in 2022 to $8 billion in 2025. Electric two-wheelers made up 9.9% of two-wheeler sales in April–August 2026, up from 5.5% in FY24.
+*Source: Autocar Professional, ANI, Zee Business*
+
+**Live2.ai raises ₹130 crore for shoppable video and live commerce**
+Live2.ai raised ₹130 crore in a pre-Series B round led by IvyCap Ventures, including a secondary portion for early shareholders. The company, which builds video commerce tools for brand websites, says revenue has quadrupled in a year, with about 90% from outside India.
+*Source: YourStory, CIOL, Indian Startup Times*
+
+**Skincare brand CHOSEN raises extended Series A from Wellbeing Nutrition founders**
+Chennai skincare brand CHOSEN has raised an extension of its Series A from Avnish Chhabria and Saurabh Kapoor, the founders of Wellbeing Nutrition; the amount was not disclosed. The original $5 million Series A was led by Fireside Ventures, with L'Oréal's BOLD and Alkemi Growth Capital. The money will go to R&D, its product pipeline and a dermatologist-led Centre of Excellence; its 50+ products are prescribed by over 2,000 doctors.
+*Source: Entrackr, Business Standard*
