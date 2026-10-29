@@ -1,0 +1,65 @@
+Title: Meesho Narrows Q2 Loss 68% on ₹4,132 Cr Revenue, HealthKart Crosses ₹2,000 Cr in FY26 & HUL Volumes Grow 7% on Rural Recovery
+
+Excerpt: Meesho cut its September-quarter loss 68% to about ₹132 crore as revenue rose 34% to ₹4,132 crore, HealthKart's FY26 revenue rose 56% to about ₹2,052 crore with profit before tax up 30%, and HUL posted 7% underlying volume growth and a 4% profit rise to ₹2,790 crore on rural recovery and premiumisation.
+
+Description:
+
+**Meesho posts ₹4,132 Cr revenue in Q2 FY27, narrows losses by 68%**
+Meesho's net loss for the September quarter fell to about ₹132 crore from about ₹411 crore a year earlier, while revenue from operations rose about 34% to ₹4,132 crore. Net merchandise value grew 23% to ₹12,911 crore and orders rose 17% to 819 million, with festive-period NMV up 33%. Contribution margin rose to 6.0% of NMV from 4.6% last quarter, and free cash flow was ₹345 crore.
+*Source: Entrackr, Upstox, Deccan Herald, Trak.in*
+
+**HealthKart crosses ₹2,000 Cr revenue in FY26, PBT rises 30%**
+HealthKart's revenue from operations rose 56.2% to about ₹2,052 crore in FY26 from about ₹1,313 crore in FY25, per its Registrar of Companies filings. Total income, including ₹54 crore of other income, was ₹2,106 crore. Profit before tax excluding exceptional items rose about 30% to roughly ₹124 crore from ₹95 crore.
+*Source: Entrackr*
+
+**HUL bets on rural recovery and premiumisation after strong Q2**
+Hindustan Unilever's Q2 FY27 net profit rose 4% to ₹2,790 crore, with underlying volume growth of 7%. Management said rural markets stepped up quarter after quarter while urban growth stayed steady. Beauty and wellbeing underlying sales grew 16%, led by premium skin and hair care. The board declared an interim dividend of ₹19 per share.
+*Source: ANI, Business Standard*
+
+**US FTC orders Walmart, Uber, Delta and six others to hand over data on personalised pricing**
+The US Federal Trade Commission issued orders on October 28 to nine companies (Delta, United, JetBlue, Lyft, Uber, DoorDash, Instacart, Target and Walmart) asking whether they use personal data such as location, browsing history, income or loyalty membership to set individual prices. The inquiry also covers whether gig workers' pay is set using personal data. The findings will feed a public study, and a separate proposed FTC rule requiring disclosure of personalised pricing is open for comment until November 21.
+*Source: Reuters, CNBC, ABC News, Federal Trade Commission*
+
+**PhonePe rebrands Indus Appstore as PhonePe Appstore, expands into digital goods**
+PhonePe has renamed Indus Appstore as PhonePe Appstore and says the platform has crossed 200 million devices. Alongside apps and games, users can now buy gift cards and vouchers, with in-game currency and app top-ups coming next. A new webstore at phonepeappstore.com sells digital goods without an app install.
+*Source: Entrackr, Business Today, Indian Startup News*
+
+**CarTrade Q2 profit rises 3% YoY to ₹66 Cr, revenue up 10%**
+CarTrade Tech's consolidated net profit rose about 3% year on year to ₹66 crore in Q2 FY27, while operating revenue grew 10% to ₹213.1 crore and total income rose 6.3% to ₹236.2 crore. EBITDA rose about 20% to ₹76 crore, and OLX India classifieds revenue grew 26%. Shares fell about 16% after the results.
+*Source: Inc42, Free Press Journal, Angel One, Trade Brains*
+
+**Reckitt's GST base-effect boost in India to unwind in Q4, says management**
+Reckitt said India delivered another quarter of double-digit growth in Q3 2026, broad-based across categories. Management said the quarter was lapping a favourable comparison after last year's GST changes, which it expects to become a headwind in Q4. Reckitt cut its 2026 core like-for-like revenue growth guidance to 3.5% to 4.5%.
+*Source: Economic Times Retail, Reckitt, Seeking Alpha*
+
+**Family, discounts and emotions drive Gen Z festive overspend: YouGov study**
+A Rukam Capital–YouGov survey of 4,002 people aged 18 to 29 across 18 states found 60% spend more during major festivals, with 25% spending significantly more. Family expectations were the top reason for overspending (34%), followed by discounts (29%) and emotional connection (28%). Delhi and Punjab had the highest share of respondents spending more, at 65% each.
+*Source: Mint, afaqs!, Best Media Info*
+
+**KisaanSay targets 50% Diwali growth, expands quick commerce presence**
+Farm-to-consumer dry fruit brand KisaanSay is expanding ahead of Diwali through Amazon Now, Blinkit and Solgram across Delhi, Mumbai, Bengaluru, Hyderabad, Chennai and Ahmedabad. The company expects demand for nuts and dried fruits, about 25% of its business, to rise around 50% during the Diwali season. Its FY26 revenue was ₹20 crore, with about 60% from direct-to-consumer sales.
+*Source: Economic Times Retail, Press Network of India, Medianews4u*
+
+**How Moms Home built a ₹10 Cr quick commerce business in baby essentials**
+Jaipur-based baby essentials brand Moms Home grew its quick commerce revenue from about ₹1 crore in FY25 to about ₹10 crore in FY26. Quick commerce now makes up about 30% of its business.
+*Source: Inc42*
+
+**ISLAND Beauty raises ₹2.58 Cr from AJVC to expand its skincare range**
+Skincare brand ISLAND Beauty, which pairs Korean ingredients with formulations for Indian skin, has raised ₹2.58 crore from pre-seed fund AJVC. The money will go into product development, brand awareness and customer acquisition. Founded in 2023 by four co-founders, the brand sells cleansers, toners, serums, moisturisers and lip care.
+*Source: Entrackr, AJVC*
+
+**Myntra Beauty adds Kylie Cosmetics to premium portfolio with 106 SKUs**
+Myntra Beauty has added Kylie Cosmetics to its premium beauty portfolio, launching with 106 SKUs.
+*Source: Economic Times Retail*
+
+**Brands need to shift to a Bharat-first strategy as digital usage grows**
+Brands are being urged to build strategies around Tier II, Tier III and rural consumers as digital usage in these markets grows.
+*Source: Economic Times Retail*
+
+**Freshworks acquires AI startup Robusta to strengthen its IT operations platform**
+Freshworks has acquired Israel-based Robusta Dev, which uses AI to investigate IT outages, find root causes and suggest fixes, for an undisclosed amount. Robusta will be integrated with Freshservice and FireHydrant, the incident management platform Freshworks bought earlier.
+*Source: Entrackr, Freshworks, Dealroom*
+
+**November 14: Deadline for September-quarter results, Nykaa date still pending**
+Listed companies must publish their September-quarter results by November 14. Nykaa has not yet announced its board meeting date.
+*Source: Univest*
