@@ -1,0 +1,45 @@
+Title: Amazon's Great Indian Festival Grows Over 50%, Shiprocket Turns Profitable & Myntra-Flipkart's Fashion Share Falls to 76.8%
+
+Excerpt: Amazon's Great Indian Festival shopping volume grows over 50% with 393 crore visits, Shiprocket posts its first profit as revenue rises 35% to ₹674 crore, and Myntra and Flipkart's share of festive fashion orders falls to 76.8% from 89%. Also: Lenskart's record share price, Emami's 36% revenue jump, Zomato's 40 km delivery, quick commerce ad spends at Diwali, Marico's digital brands, Amazon's Uber Eats deal and Dhanteras coin sales.
+
+Description:
+
+**Amazon's Great Indian Festival shopping volume grows over 50%**
+Amazon says shopping volume during its 2026 Great Indian Festival grew more than 50% year on year, with over 70% of shoppers coming from outside the metros. It recorded over 393 crore customer visits, more than ₹2,800 Cr in customer savings, record Prime sign-ups and 3.6 times more same-day deliveries. Premium Android phones priced above ₹30,000 grew 50%, and premium smartwatches grew fivefold.
+*Source: The Hindu BusinessLine, About Amazon, Fone Arena, Storyboard18*
+
+**Shiprocket turns profitable in Q2 as revenue rises 35% to ₹674 Cr**
+Shiprocket posted a profit of ₹60 lakh in Q2 FY27, against a ₹20.3 Cr loss a year earlier, as revenue from operations rose 35% to ₹673.6 Cr. Its core business grew 25% to ₹461.5 Cr and its emerging businesses grew 61% to ₹212.2 Cr. Adjusted EBITDA was about ₹14.2 Cr, and the company has repaid all its borrowings.
+*Source: Inc42, Entrackr, NewsBytes*
+
+**Myntra and Flipkart's share of festive fashion orders falls to 76.8% as Ajio and Amazon gain**
+According to Fynd's Festive Season Report 2026, Myntra and Flipkart together handled 76.8% of online fashion orders in the September-October festive period, down from 89% a year earlier. Ajio, Amazon and JioMart gained ground, though the report doesn't give individual shares. Footwear was the largest category, with 52.7% of orders and 58.4% of sales value.
+*Source: BW Businessworld, Digital Terminal*
+
+**Brands move quick commerce ad budgets to Diwali homepages as spends climb to 8-10% of GMV**
+Redseer's Nikhil Dalal says some FMCG food brands' quick commerce ad spends reach 8% to 10% of GMV in Diwali week, against 5% to 6% in a normal week. He expects search-led spending for food categories to dip slightly while display advertising rises. Datum estimates quick commerce advertising could reach about ₹2,200 Cr in the 2026 festive period, up around 50%.
+*Source: Storyboard18*
+
+**Lenskart shares jump 11% to an all-time high after its Q2 profit doubles**
+Lenskart shares rose as much as 11.1% to a record ₹767.40 on the BSE on 5 November, about 90% above the ₹402 IPO price, after Q2 FY27 profit more than doubled to about ₹232 Cr. Jefferies, Morgan Stanley and Motilal Oswal raised their target prices, with Morgan Stanley's now at ₹805. Lenskart sold 1.1 crore eyewear units in the quarter, up 27.1%.
+*Source: Inc42, Business Standard, Upstox*
+
+**Emami's Q2 revenue rises 36% to ₹1,088 Cr as domestic volume grows 43%**
+Emami's consolidated revenue from operations rose 36% to ₹1,087.65 Cr in Q2 FY27, while profit after tax fell about 2% to ₹145.50 Cr as tax expense rose. Reported domestic volume grew 43%, or 26% on a like-for-like basis after adjusting for the Axiom Ayurveda and IncNut Digital acquisitions. International revenue fell 2%, and the board declared an interim dividend of ₹5 per share.
+*Source: afaqs!, BW Businessworld, Indian Television*
+
+**Marico expects 4700BC to break even ahead of schedule, with two more digital brands turning profitable within a year**
+Marico MD and CEO Saugata Gupta expects popcorn brand 4700BC to break even ahead of schedule, and two more of Marico's digital-first brands to become profitable within a year. Gupta has said the recent acquisitions Cosmix and 4700BC are running ahead of assumptions, and that the True Elements integration has gone well. Beardo and Plix are already profitable.
+*Source: ET Retail, Business Standard*
+
+**Zomato launches Limitless Delivery from restaurants up to 40 km away**
+Zomato's new Limitless Delivery lets users order from restaurants up to 40 km away within their city, live in Bengaluru, Delhi NCR, Chennai, Mumbai, Kolkata, Pune and Hyderabad. Users reach it through an "Explore More" link on the homepage or by searching for a restaurant by name. Zomato hasn't said whether these orders carry extra delivery charges or longer delivery times.
+*Source: India Today, Zee Business, Fone Arena, NewsBytes*
+
+**Quick commerce platforms sell gold and silver coins for Dhanteras**
+Blinkit, Zepto, Swiggy Instamart and BigBasket are selling gold and silver coins for Dhanteras, with offers ranging from free silver coins to discount vouchers and payment-linked benefits. Zepto has a dedicated Dhanteras section on its app. Availability depends on pincode.
+*Source: Business Today, Deccan Herald*
+
+**Amazon drops Grubhub and taps Uber Eats for US Prime members**
+Amazon has ended its Grubhub deal and made Uber Eats the restaurant delivery partner for US Prime members, ordered through Amazon.com and the Amazon Shopping app without an Uber account. Free delivery now applies to orders of $25 or more, up from $12 under Grubhub+. Members who had activated Grubhub+ keep it until 31 December 2027.
+*Source: TechCrunch, The Next Web, Stock Titan*
