@@ -29,7 +29,7 @@ Emami's consolidated revenue from operations rose 36% to ₹1,087.65 Cr in Q2 FY
 *Source: afaqs!, BW Businessworld, Indian Television*
 
 **Marico expects 4700BC to break even ahead of schedule, with two more digital brands turning profitable within a year**
-Marico MD and CEO Saugata Gupta expects popcorn brand 4700BC to break even ahead of schedule, and two more of Marico's digital-first brands to become profitable within a year. Gupta has said the recent acquisitions Cosmix and 4700BC are running ahead of assumptions, and that the True Elements integration has gone well. Beardo and Plix are already profitable.
+Marico CEO Saugata Gupta expects popcorn brand 4700BC to break even ahead of schedule, and two more of Marico's digital-first brands to become profitable within a year. Gupta has said the recent acquisitions Cosmix and 4700BC are running ahead of assumptions, and that the True Elements integration has gone well. Beardo and Plix are already profitable.
 *Source: ET Retail, Business Standard*
 
 **Zomato launches Limitless Delivery from restaurants up to 40 km away**
