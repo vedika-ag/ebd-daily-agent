@@ -33,7 +33,7 @@ Sugar Cosmetics' parent Sugar Brands cut its net loss 41% to ₹79.3 Cr in FY26 
 *Source: Entrackr, NewsBytes, VIE Stories*
 
 **Consumer goods companies turn to cost-cutting as input prices rise**
-Consumer goods companies are cutting costs to absorb higher input prices without raising prices, aiming to protect demand and revive volume growth. Crude, palm oil and packaging inflation was expected to squeeze FMCG margins in Q2 FY27, with Dabur and Godrej Consumer flagging inflation. Marico was an exception: its material costs rose only about 1% on 13% revenue growth, helped by lower copra prices.
+Consumer goods companies are turning to cost-cutting as input prices rise, to protect demand and revive volume growth. Crude, palm oil and packaging inflation was expected to squeeze FMCG margins in Q2 FY27, with Dabur and Godrej Consumer flagging inflation. Marico was an exception: its material costs rose only about 1% on 13% revenue growth, helped by lower copra prices.
 *Source: Economic Times, Retail Intel, Kotak Neo*
 
 **South Korea fines Coupang $220 Mn for abusing dominance in food delivery**
