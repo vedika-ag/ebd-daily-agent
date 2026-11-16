@@ -1,7 +1,5 @@
 Title: Razorpay Gets SEBI Nod for ₹6,000 Cr IPO, Urban Company Shareholders Approve ₹2,500 Cr Raise & Eternal May Push Back Its 100% EV Fleet Target
 
-Excerpt: Razorpay has SEBI's approval for an IPO of up to ₹6,000 crore with listing expected in early 2027, Urban Company's shareholders approved a ₹2,500 crore QIP, and Eternal is reviewing its 2030 all-electric delivery fleet goal as its rider base grows to about 12 lakh. Also: ITC expects Savlon and Nimyle to double to over ₹2,000 crore, and Instamart's Diwali party-planning orders rose 162%.
-
 Description:
 
 **Razorpay gets SEBI nod for an IPO of up to ₹6,000 crore**
@@ -19,10 +17,6 @@ Eternal is reviewing its goal of an all-electric delivery fleet by 2030 because 
 **Consumer spending on ITC's Savlon and Nimyle expected to double to over ₹2,000 crore**
 Consumer spending on Savlon and Nimyle has crossed ₹1,000 crore and is growing over 20% a year, and is expected to more than double to over ₹2,000 crore in the medium term. ITC bought Savlon from Johnson & Johnson in 2015 and has grown it nearly ninefold; Nimyle, bought in 2018, has grown about eightfold.
 *Source: Economic Times, Business Standard*
-
-**Instamart's Diwali party-planning orders rise 162% and snack demand 42%**
-Swiggy Instamart's party-planning orders rose 162% year on year over Diwali, and demand for munchies and snacks rose 42%. Kaju katli was the most-ordered sweet, Diet Coke the top non-grocery item on Diwali eve, and the busiest hour on 8 November was 11 am to 12 pm. Raipur, Madurai, Guwahati, Thrissur and Kollam led festive demand.
-*Source: ET Retail, BW Retail World, Daily Jagran*
 
 **Quick commerce and ecommerce are converging, says WPP Media's Sairam Ranganathan**
 WPP Media's Sairam Ranganathan said quick commerce is taking a growing share of online sales, pushing ecommerce platforms to rethink strategy as shoppers prioritise speed and convenience. He said quick commerce made up about 20% of one WPP client's sales four years ago, and that speed alone doesn't decide which channel shoppers choose.
@@ -47,11 +41,3 @@ A 23-year-old Delhi entrepreneur started a ramen business in a rented room in Au
 **D2C brands rethink pricing**
 D2C brands are rethinking how they price their products, according to Economic Times' Morning Dispatch.
 *Source: Economic Times*
-
-**D2C brands turn to hybrid fulfilment models to speed up deliveries**
-D2C brands are moving to hybrid fulfilment models to deliver faster.
-*Source: The Hindu BusinessLine*
-
-**Amazon Bazaar emerges as a key player in value commerce as Meesho and Shopsy compete**
-Amazon Bazaar's GMV grew about fivefold year on year in 2026, according to an Infisum Modeling report, with most products priced under ₹300. It competes with Meesho, Flipkart's Shopsy and Reliance's Ajio Street in a value commerce market the report expects to reach $65 to 70 billion by 2030.
-*Source: ET Retail, Storyboard18*
