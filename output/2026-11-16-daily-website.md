@@ -1,5 +1,7 @@
 Title: Razorpay Gets SEBI Nod for ₹6,000 Cr IPO, Urban Company Shareholders Approve ₹2,500 Cr Raise & Eternal May Push Back Its 100% EV Fleet Target
 
+Excerpt: Razorpay has SEBI's approval for an IPO of up to ₹6,000 crore with listing expected in early 2027, Urban Company's shareholders approved a ₹2,500 crore QIP, and Eternal is reviewing its 2030 all-electric delivery fleet goal as its rider base grows to about 12 lakh. Also: ITC expects Savlon and Nimyle to double to over ₹2,000 crore, and D2C brands are adding connected TV to their performance marketing.
+
 Description:
 
 **Razorpay gets SEBI nod for an IPO of up to ₹6,000 crore**
