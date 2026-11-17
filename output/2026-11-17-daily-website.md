@@ -1,0 +1,61 @@
+Title: Meesho Targets 2 Lakh Creators on YouTube Shopping, Xpressbees Raises ₹100 Cr in Debt & Zoff Crosses ₹150 Cr Revenue as Losses Widen
+
+Excerpt: Meesho opens more than 30 million products to YouTube Shopping creators and targets 2 lakh of them, Xpressbees raises ₹100 Cr in debt from BlackSoil at a 13.5% coupon, and spice brand Zoff grows revenue 48% to ₹152.4 Cr while its loss widens to ₹20.9 Cr.
+
+Description:
+
+**Meesho targets 2 lakh creators on YouTube Shopping and opens 30 million products for affiliate commerce**
+Eligible YouTube creators in India can now tag Meesho products in videos, Shorts and livestreams and earn commission on sales, from a catalogue of more than 30 million affiliate products. Meesho aims to bring more than 2 lakh creators onto YouTube Shopping over the coming months. It says 81% of its Creator Club creators are from non-metro cities and about 90% of its active creators are nano creators.
+*Source: ET Retail, Social Samosa, Adgully*
+
+**Xpressbees raises ₹100 Cr in debt from BlackSoil**
+Logistics unicorn Xpressbees has raised ₹100 Cr through 200 non-convertible debentures of ₹5 lakh each, carrying a 13.5% annual coupon over three years, according to regulatory filings. BlackSoil Capital took ₹60 Cr and BlackSoil India Credit Fund II took ₹40 Cr. Interest is paid monthly and the principal is repaid in equal instalments over 36 months. The money is for working capital.
+*Source: Entrackr, YourStory*
+
+**Spice brand Zoff crosses ₹150 Cr revenue in FY26 as losses widen to ₹21 Cr**
+Zoff's revenue from operations rose over 48% to ₹152.4 Cr in FY26. Its loss widened 20.1% to ₹20.9 Cr from ₹17.4 Cr in FY25. Ad spend rose 2.5x to ₹29.9 Cr, and total expenses were about ₹180 Cr.
+*Source: Entrackr*
+
+**Diwali 2026 online retail sales rise 2%, led by home décor, apparel and gifting: Criteo**
+Online retail sales rose 2% in the two weeks before Diwali compared with the same period in 2025, according to Criteo. Against the 1–14 September baseline, sales were 30% higher and product page traffic rose 23%. Unit sales of table runners rose 180%, candle holders 178%, baby and toddler outerwear 205%, coats and jackets 175% and saris and lehengas 48%.
+*Source: ET Retail, BW Businessworld, Medianews4u*
+
+**D2C brands see no way out of price hikes even as oil cools**
+Lower crude prices will take time to reach procurement costs, and smaller D2C brands without big players' buying scale are taking a bigger hit to operating margins. For comparison, HUL faced 8–10% material inflation and raised prices 2–5%, and Dabur raised 4% against 10% inflation. Brands are expected to cut grammage on small packs and raise prices on larger ones.
+*Source: Inc42*
+
+**D2C food brands face a 'red label' test under FSSAI's proposed front-of-pack rules**
+FSSAI's proposed front-of-pack labelling rules could require packaged foods high in sugar, salt or saturated fat to carry prominent red hexagonal warning labels. That puts new-age D2C food brands' clean-label positioning under scrutiny and could mean reformulation and higher compliance costs. The rules are not final.
+*Source: Inc42*
+
+**Eternal outpaces Swiggy on earnings after Q2 FY27 results**
+Eternal's operating profit rose 27% and its net profit 36% in Q2 FY27, while Swiggy's operating loss widened 18% and its net loss 17%. Blinkit turned EBITDA positive in the quarter, while Instamart posted an EBITDA loss of ₹895 Cr. Most analysts rate Eternal outperform and are more cautious on Swiggy, whose stock fell up to 15% the day after its results.
+*Source: Mint, The Week, Zee Business*
+
+**Zomato steps up discounting and holds off a fee hike as food delivery competition intensifies**
+Zomato is increasing discounts and not raising its platform fee as competition in food delivery heats up, Economic Times reports. Its last hike, in March 2026, took the fee to ₹14.90 per order from ₹12.50.
+*Source: Economic Times, Entrepreneur Loop*
+
+**Handpickd's revenue triples in FY26 as its loss nearly quadruples**
+Fresh-produce delivery startup Handpickd grew revenue from operations 3.3x to ₹28.6 Cr in FY26 from ₹8.7 Cr, while its net loss widened to ₹43.1 Cr from ₹11.2 Cr. Procurement costs of ₹28.9 Cr roughly matched product sales of ₹28.6 Cr, which left almost no gross margin. Total spending rose 3.6x to ₹72.9 Cr.
+*Source: Entrackr, NextBigWhat*
+
+**Bombay Shaving Company's parent enters wellness with recovery brand rE and plans a gym network**
+Visage Lines, which owns Bombay Shaving Company and Bombae, has launched rE, a recovery brand selling massage guns, scalp massagers, foam rollers and hot and cold packs. The launch range has 14 products across three categories, sold on its own website from 16 November. The company is building rEpublic, a network of recovery-focused gyms and brands, and is pursuing fitness, sports and workplace wellness partnerships.
+*Source: Inc42, Storyboard18, BestMediaInfo*
+
+**Instagram lets creators add Amazon affiliate links directly to Reels and posts**
+Eligible US creators can now tag up to 30 Amazon products per Reel and 20 per feed post, after linking an Amazon Influencer or Associates account. Instagram takes no commission or transaction fee. Meta says links placed on posts get about twice the clicks of links in bio.
+*Source: Engadget, TechCrunch*
+
+**DigiHaat's festive orders rise 175.6% as pooja essentials sales jump 15-fold**
+DigiHaat's festive orders rose 175.6% and sales of pooja essentials grew 15-fold, ET Retail reports. The ONDC buyer app, run by Nirmit Bharat, ran a "Har Din Tyohar" sale from 15 October to Chhath Puja with discounts of up to 85%.
+*Source: ET Retail, Press Network of India*
+
+**New Shop plans 25 Bengaluru stores next quarter and targets 200 outlets across South India**
+Convenience retail chain New Shop plans to open 25 stores in Bengaluru next quarter as part of a target of 200 outlets across South India, ET Retail reports. The chain runs on a franchise model.
+*Source: ET Retail, Indian Retailer*
+
+**Brands turn to regional creators for festive campaigns**
+Brands are moving festive spending from celebrity endorsements to regional creators, relying on their local connect and cultural understanding. Campaigns are also being built around regional festivals such as Onam, Ganesh Chaturthi, Durga Puja and Navratri, not just Diwali.
+*Source: Exchange4media*
