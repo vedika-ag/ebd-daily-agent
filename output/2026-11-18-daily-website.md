@@ -1,0 +1,65 @@
+Title: Shree Anandhaas Raises ₹110 Cr at a ₹1,900 Cr Valuation, Ranveer Singh and Aman Gupta Launch Grooming Brand H.I.M. & Amazon to Invest $7 Bn in Indian Renewables
+
+Excerpt: Coimbatore sweets chain Shree Anandhaas raises ₹110 Cr as its valuation more than triples to about ₹1,900 Cr, Ranveer Singh and Aman Gupta launch men's grooming brand H.I.M. with eight products priced ₹299 to ₹899, and Amazon commits $7 Bn to Indian renewable energy by 2030.
+
+Description:
+
+**Shree Anandhaas raises ₹110 Cr as its valuation jumps to about ₹1,900 Cr**
+The Coimbatore sweets and snacks chain raised ₹110 Cr in a round led by Araya Ventures with ₹45 Cr. A91 Partners and Waterfield Advisors put in ₹15 Cr each, Ithought Financial Consulting had invested ₹10 Cr in August, and the co-founders put in ₹7.2 Cr. The valuation is about ₹1,908 Cr, roughly 3.3 times its Series A valuation of ₹575 Cr. FY25 revenue was ₹284 Cr, up 20.9%.
+*Source: Entrackr*
+
+**Ranveer Singh and Aman Gupta launch men's grooming brand H.I.M.**
+The actor and boAt co-founder have launched H.I.M. (Handsome Indian Man), a personal care brand formulated for Indian male skin and climate, with Singh as a co-founder. It launches with eight face, body and hair products priced between ₹299 and ₹899, sold on its website, Amazon and Blinkit. The company says the range went through 408 lab trials over 16 months.
+*Source: afaqs!, Inc42, Entrackr*
+
+**Amazon to invest $7 Bn in Indian renewable energy projects by 2030**
+The investment is on top of $4 Bn Amazon has already contracted in Indian renewable energy. It signed power purchase agreements for about 934 MW with ReNew, Sunsure and Waaree across Karnataka, Madhya Pradesh and Rajasthan, which will take its India renewable portfolio past 2 GW once operational.
+*Source: Inc42, Business Standard, About Amazon*
+
+**FirstCry retains its FY27 growth guidance and expects a stronger Q3**
+After its Q2 FY27 results, FirstCry parent Brainbees Solutions kept its mid-teen revenue growth guidance for FY27 and expects its India multichannel business to grow in the mid to high teens. Management expects growth to pick up in Q3 on festive demand and lighter discounting, with margins recovering as diaper discounting eases and input costs fall. JM Financial cut its FY27 adjusted EBITDA estimate by about 18% after a gross margin miss.
+*Source: Inc42, Moneycontrol*
+
+**Ola Electric moves away from D2C and targets 700 dealerships by March 2027**
+Ola Electric is moving from its direct-to-consumer stores to a dealer-led network, which it began opening to partners in August 2026, and is targeting 700 dealerships by March 2027. It had 319 dealer stores as of 8 November, and October wholesale orders were 13,505 vehicles.
+*Source: Autocar Professional, Business Today, Multibagg*
+
+**DailyObjects plans 150 stores in India and eyes global expansion**
+The lifestyle-tech accessories brand plans 150 standalone stores in India over five years and is targeting ₹400 Cr revenue in FY27. It is evaluating international markets, with the US as its first priority. It raised about ₹332 Cr in its Series C at a ₹1,050 Cr valuation.
+*Source: ET Retail, D2C Insider, Lapaas Voice*
+
+**Sneaker brand Comet grows revenue 2.6x to ₹74 Cr in FY26**
+Comet's FY26 revenue rose 2.6x to ₹74 Cr, up from ₹29.1 Cr in FY25, when it posted a ₹4.4 Cr loss. The brand raised about ₹100 Cr in a Series B led by Verlinvest in September for retail expansion and product R&D.
+*Source: Entrackr, YourStory*
+
+**FRND's FY26 revenue rises 88% to ₹367 Cr as profit jumps about 10x**
+The voice-based social platform's revenue rose to ₹367 Cr from ₹195 Cr, and net profit rose to ₹19.27 Cr from about ₹2 Cr. Advertising and marketing spend rose to ₹153 Cr from ₹84 Cr, and creator payouts rose 72% to about ₹136 Cr. FY26 was its third straight profitable year.
+*Source: Entrackr, Storyboard18, Indian Television*
+
+**D2C brand Lumov in talks to raise ₹33 Cr in a round led by Peak XV's Surge**
+The Bengaluru orthopaedic products brand, founded in 2024, makes braces and supports for post-surgery recovery, rehabilitation and pain management. Venture Intelligence puts the round at ₹32 Cr, with the founders of Minimalist and Mokobara and Panthera Peak Ventures also taking part.
+*Source: Inc42, Venture Intelligence*
+
+**Underneat targets ₹2,000 Cr revenue by 2032 and eyes 10–20 stores next year**
+Shapewear brand Underneat, co-founded by Kusha Kapila, is targeting ₹2,000 Cr in revenue by 2032 and plans 10 to 20 stores next year, ET Retail reports. The brand earlier said it crossed ₹200 Cr in annual recurring revenue within 12 months of launch.
+*Source: ET Retail, Indian Retailer*
+
+**97% of Indian consumers prioritise long-term wellbeing: PwC**
+PwC's Voice of the Consumer 2026 survey found that 97% of Indian respondents want to fit nutrition, fitness, sleep and mental health into long-term routines, and 67% cite stress, fatigue and low energy as barriers. Around 90% use health apps or wearables, and 81% would pay more for clinically reliable devices. The survey covered 1,005 respondents in India.
+*Source: ET Retail, Business Standard, ANI*
+
+**Madras High Court bars Blinkit from using a CSK superfan's image without permission**
+In an interim order, the court restrained Blinkit, The Times of India and unknown parties from using the persona of Chennai Super Kings fan Saravanan Hari without his written consent. The suit concerns a full-page Blinkit ad in the Chennai edition of The Sunday Times of India in March 2025 that carried a cartoon resembling him.
+*Source: Inc42, LawChakra*
+
+**India Inc logs its best quarterly profit growth in years, fuelling a market revival**
+Indian companies posted their strongest profit growth in years in the September quarter, Reuters reports, helping revive the stock market. An ET Intelligence Group analysis put September-quarter net profit growth at 26.2%.
+*Source: Reuters, NewsBytes*
+
+**China's JD.com misses Q3 estimates on weak consumer demand**
+JD.com's Q3 2026 revenue rose 3.5% to RMB 309.6 Bn, and JD Retail's revenue grew 3% to RMB 258 Bn. Operating income was RMB 5.2 Bn, against a loss of RMB 1.1 Bn a year earlier. The company also completed its takeover of CECONOMY, MediaMarktSaturn's parent, on 12 November.
+*Source: ET Retail, JD.com, Investing.com*
+
+**What the next decade holds for organised retail, premiumisation and consumer demand in India**
+ET Retail examines how organised retail, premiumisation and consumer demand in India are expected to change over the next decade.
+*Source: ET Retail*
