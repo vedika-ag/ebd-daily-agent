@@ -1,0 +1,53 @@
+Title: Flat ₹5 MDR Likely for B2B UPI Payments, Style Union Raises ₹485 Cr & Boba Bhai Bags $18 Mn to Build a Multi-Brand QSR Chain
+
+Excerpt: Merchant-to-merchant UPI payments are likely to carry a flat ₹5 MDR instead of the feared ₹300, value fashion chain Style Union raises ₹485 Cr after growing to 158 stores and over ₹1,150 Cr revenue, and Boba Bhai raises $18 Mn to expand its 120-store chain and launch new brands.
+
+Description:
+
+**Flat ₹5 MDR likely for B2B UPI payments instead of the feared ₹300 charge**
+Merchant-to-merchant UPI payments are likely to carry a flat ₹5 merchant discount rate (MDR), not the up to ₹300 traders had feared, according to people aware of the decision by NPCI's UPI steering committee. It would cover wholesalers, retailers, B2B marketplaces and B2B collections, where the average payment is ₹20,000 to ₹40,000. No rollout date has been announced.
+*Source: Business Standard, Free Press Journal*
+
+**Style Union raises ₹485 Cr in a Series E led by Venturi Partners and Elev8 Venture Partners**
+The value fashion chain's parent, Nexon Omniverse, raised ₹485 Cr through a mix of primary and secondary capital to expand its stores across metros in West and North India. It grew from 41 stores in FY23 to 158 in FY26, and net revenue rose from ₹123 Cr to over ₹1,150 Cr. Its store-level EBITDA margin improved from about 10% to 16%.
+*Source: Entrackr, Inc42*
+
+**Boba Bhai raises $18 Mn to build a multi-brand QSR chain**
+The bubble tea and Korean street food chain raised $18 Mn in a Series B led by Left Lane Capital, with BIG Capital and Titan Capital participating. The money will expand its store network and launch new brands under Boba Bhai Ventures. Founded in October 2023, it runs 120 stores and serves over 3 lakh orders a month. Its revenue rose from ₹5 Cr in FY24 to ₹30 Cr in FY25.
+*Source: Inc42, Entrackr, YourStory*
+
+**Egg brand Henfruit raises $15 Mn in its first external round**
+Lok Capital, DSG Consumer Partners and RPSG Capital Ventures invested after more than a decade of bootstrapping. Henfruit says it processes over 4 crore eggs a month across 15 cities and expects FY27 revenue above ₹350 Cr. The money is for production, supply chain, distribution and marketing.
+*Source: Inc42, Entrackr, Exchange4media*
+
+**After seven years of losses, Samara and Amazon-owned More Retail bets on quick commerce for a turnaround**
+More Retail's loss widened to ₹446 Cr in FY26, and it posted an EBITDA loss of ₹68 Cr against EBITDA of ₹121 Cr a year earlier. The company says FY25 included one-time gains from closing stores. Promoters Amazon and Samara Capital put ₹607 Cr of fresh equity into the company this financial year.
+*Source: Moneycontrol, Angel One*
+
+**Moglix posts ₹6,129 Cr revenue and ₹160 Cr loss in FY26**
+The B2B industrial commerce platform's revenue from operations rose 8% from ₹5,674 Cr, and its loss widened 11% from ₹144 Cr. Procurement costs rose to ₹5,643 Cr, about 89% of spending. The company is preparing for a stock market listing in 2027.
+*Source: Entrackr, NewsBytes, The Tribune*
+
+**FirstCry expects mid-to-high teens growth in H2 FY27 and plans 50+ new stores and a wider Qwik rollout**
+FirstCry parent Brainbees Solutions plans to resume store expansion with 50 to 60 stores in the second half of FY27, a mix of franchise and company-owned outlets, and targets about 90 to 100 stores a year for the next two to three years. Its quick delivery service, FirstCry Qwik, has grown from a three-city pilot to 16 cities.
+*Source: ET Retail, GuruFocus*
+
+**FirstClub reports ₹64 Cr revenue and ₹97 Cr loss in FY26**
+In its first full financial year, quick commerce platform FirstClub reported revenue from operations of ₹64 Cr and a loss of ₹97.5 Cr, with ₹169.4 Cr spent on building its supply chain and acquiring customers. It had cash and bank balances of ₹141 Cr at the end of March 2026.
+*Source: Entrackr, NewsBytes*
+
+**Blinkit delivers GTA 6 in 11 cities ahead of launch**
+Blinkit began delivering GTA 6 a day before the game's 19 November global release, in select areas of Delhi, Gurugram, Noida, Ghaziabad, Faridabad, Bengaluru, Hyderabad, Mumbai, Pune, Kolkata and Ahmedabad. The box contains a digital download code, not a disc, and the PS5 Standard Edition is priced at ₹5,999, the same as on the PlayStation Store.
+*Source: Inc42, IBTimes India, TelecomTalk*
+
+**Blinkit launches its ambulance service in Bengaluru across four localities**
+Blinkit's ambulance service now covers Domlur, Indiranagar, BTM Layout and Bommanahalli, with four ambulances run from two depots, booked through the Blinkit app. Bengaluru is its first South Indian city for the service. It has also opened a second ambulance training academy, in Horamavu, Bengaluru.
+*Source: ET Retail, IBTimes India, Medianews4u*
+
+**HyugaLife partners with Tata 1mg to expand its health and wellness range**
+Health and wellness ecommerce platform HyugaLife has added Tata 1mg's supplements, including whey and plant protein, creatine, omega-3 fish oil and probiotics. HyugaLife recently raised ₹100 Cr in a Series A led by IvyCap Ventures.
+*Source: ET Retail, BW Disrupt, Mediabrief*
+
+**Moving from market intelligence to market imagination may be key to FMCG growth in India**
+This ET Retail opinion piece argues that FMCG companies in India need to move beyond data-led market intelligence towards imagining new categories and consumer needs.
+*Source: ET Retail*
