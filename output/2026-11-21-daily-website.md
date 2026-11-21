@@ -1,0 +1,45 @@
+Title: India's Festive Smartphone Sales Fall 22%, Flagship Phone Prices Set to Rise Over 30% & Maharashtra FDA Suspends 23 Food Licences
+
+Excerpt: India's festive-season smartphone sales fell 22% as prices rose and discounts narrowed, Counterpoint expects premium flagship prices to be over 30% higher by year end, and Maharashtra's FDA suspended 23 food business licences and seized ₹2.23 crore of stock. Quick commerce is projected to make up 37–47% of online supplement sales by FY31, and ghee brand Barosi crossed ₹1 crore in monthly quick commerce sales within eight months of joining Blinkit.
+
+Description:
+
+**India's festive smartphone sales fall 22%; Apple sees a double-digit dip**
+India's smartphone sales fell about 22% year on year during the festive season (8 October to 10 November), according to Counterpoint's preliminary estimates, as prices rose and demand weakened. Apple's sales fell by double digits. Samsung led with a 21% share and its sales fell only 8%. Discounts narrowed to 10–25%, from 35–40% in 2025, and nearly 48% of sales were financed.
+*Source: ET Retail, IANS, Communications Today*
+
+**Premium flagship smartphone prices likely to rise by over 30% by year end: Counterpoint**
+Counterpoint expects premium flagship smartphone prices to be more than 30% higher by the end of 2026 than in 2025, driven by memory costs. Memory now makes up over 40% of a smartphone's bill of materials, up from about 13% in early 2025, because of demand from AI data centres. Oppo flagships are up 82–87% year on year and iPhones 20–22%.
+*Source: The Hindu BusinessLine, Free Press Journal, Deccan Chronicle*
+
+**Maharashtra FDA suspends 23 food business licences and seizes stock worth ₹2.23 Cr**
+The Maharashtra Food and Drug Administration suspended 23 food business licences in a statewide drive and ordered eight establishments to stop operating without valid licences. Of the ₹2.23 Cr seized, about ₹2.06 Cr came from DXP Ventures India in Bhiwandi. There, manufacturing dates, expiry dates and MRPs on imported food products had allegedly been erased with chemical thinner. Six Mumbai outlets were among those suspended, including Chaayos in Churchgate and 5 Spice and QIN's in Bandra West.
+*Source: ET Retail, UNI, Lokmat Times*
+
+**Quick commerce supplement sales grow, but concerns rise over informed buying**
+Supplements are selling faster on quick commerce apps, which raises concerns about whether buyers know what they are purchasing. A recent report projects that quick commerce will account for 37–47% of online supplement sales by FY31, up from about 17% in FY26. Protein and sports nutrition made up 55% of supplement sales on quick commerce platforms in April 2026. The report notes that awareness doesn't automatically lead to informed purchases, particularly when products are marketed around health outcomes.
+*Source: Mint, Open Magazine*
+
+**How Barosi is building a ₹1,000 Cr ARR ghee business in the 10-minute economy**
+Gurugram-based Barosi entered quick commerce in 2022, despite steep platform commissions and competition from established FMCG brands. Within eight months of its Blinkit debut, it crossed ₹1 Cr in monthly quick commerce sales. Its revenue rose 194% to ₹32.46 Cr in FY25 from ₹11.03 Cr in FY24, and the brand stayed profitable. It also sells on Instamart, Zepto, Amazon, BigBasket and its own website.
+*Source: Inc42*
+
+**Zudio keeps its focus on stores as Trent weighs online growth against store expansion**
+Trent continues to grow mainly through new stores, while online remains a small but faster-growing channel. In Q4 FY26, it added 109 Zudio and 23 Westside stores, and revenue grew about 20% year on year while like-for-like demand stayed subdued. Online revenue grew 25% and made up about 6% of Westside sales, helped by Tata Neu.
+*Source: Economic Times, ICICI Direct*
+
+**Flipkart's festive sale timing cuts Walmart's Q3 sales growth by 100 basis points**
+The shift of Flipkart's Big Billion Days sale from Q3 to Q4 reduced Walmart's overall Q3 sales growth by about 100 basis points, in line with the guidance it gave in August. International net sales growth took a hit of about 500 basis points. Walmart expects the same amount to benefit Q4.
+*Source: ET Retail, Free Press Journal, Investing.com*
+
+**Ranked: India leads the world in projected ecommerce growth**
+India and Brazil lead a ranking of 12 countries by projected retail ecommerce growth, with sales in both forecast to grow by more than 14% a year from 2023 to 2027. India is just 0.04 percentage points ahead of Brazil. The global average is 11.16%. The figures come from a 2023 International Trade Administration forecast.
+*Source: Visual Capitalist*
+
+**Amazon Prime India head Abhinav Agarwal quits after 16 years**
+Abhinav Agarwal, head of Amazon Prime India, is leaving after 16 years at the company. He said his next role will be at the "intersection of commerce, logistics and product." Amazon plans to invest $3 Bn in its quick commerce business Amazon Now by 2030, including $1 Bn by the end of 2027.
+*Source: Inc42*
+
+**Meesho shares hit a record high**
+Meesho shares rose 1.75% to a record ₹263.38 on 20 November, up from ₹258.85 at the previous close.
+*Source: Upstox*
