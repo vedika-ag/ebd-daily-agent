@@ -1,0 +1,57 @@
+Title: Maharashtra FDA Suspends Amazon and BigBasket Dark Store Licences in Pune, Traya's FY26 Revenue Jumps 73% to ₹585 Cr & ChrysCapital Among Three Funds in Final Race for Hocco Stake
+
+Excerpt: The Pune FDA suspends the food licences of Amazon and BigBasket dark stores over expired food and fungus, Traya's FY26 revenue rises 73% to ₹585 crore, and Hocco shortlists ChrysCapital, Investcorp and Sofina for a 10% stake at about a ₹4,500 crore valuation.
+
+Description:
+
+**Maharashtra FDA suspends Amazon and BigBasket dark store licences in Pune over food safety violations**
+The Pune FDA suspended, with immediate effect, the food licences of two dark stores on Sinhagad Road on 21 November: Amazon's Gajanan Inventories and BigBasket's Innovative Retail Concept. Inspectors found expired laddoos, pedhas, cakes, pav, milk rusk and chutney, along with fungal growth, dusty containers and leaking oil cartons. The action covers only these two stores, not either company's wider operations.
+*Source: Business Today, Deccan Herald, Storyboard18, Punekar News*
+
+**Agra Flipkart seller says 550 boxes of shoes came back as worn-out pairs**
+An Agra shoe seller alleges that about 550 boxes of new shoes dispatched to customers through Flipkart were returned containing old, damaged footwear. The complaint was raised through an e-commerce seller association. The DCP of West Agra has directed the Etmadpur police station to investigate, and Flipkart has asked the seller for more information.
+*Source: The420.in, Amar Ujala*
+
+**Keralam orders statewide crackdown on fake cosmetics after kidney disease cases**
+Keralam's health minister ordered statewide inspections of fake cosmetics and protein powders on 22 November, after kidney disorders were reported in users of fairness creams. One case involves a 17-year-old in Malappuram who used a cream sold as "F Tune". Shops selling unapproved products will lose their licences permanently, and vloggers who promote them face criminal action. Officials say some consignments enter via the Mangaluru–Kasaragod route and originate in Pakistan.
+*Source: Rediff, Daily Excelsior, The South First*
+
+**Traya's FY26 revenue jumps 73% to ₹585 Cr; loss rises 23% to ₹29 Cr**
+Traya's operating revenue grew 72.6% year-on-year to ₹585 Cr in FY26, while its net loss widened to ₹29 Cr from ₹23.5 Cr. Total expenses rose about 70% to ₹623 Cr. Advertising, at ₹275 Cr, made up about 44% of spending.
+*Source: Inc42, Lapaas Voice*
+
+**ChrysCapital among three PE funds in final race for a minority stake in Hocco**
+Hocco has reportedly shortlisted ChrysCapital, Investcorp and Sofina as final bidders for a minority stake, and all three are conducting due diligence. The deal would sell about 10% through a mix of primary and secondary shares at an estimated ₹4,500 Cr valuation. Existing investor Sauce.vc may sell 1–3%, and KPMG is advising Hocco.
+*Source: ET Retail, Business Review Live*
+
+**Reliance Brands trims FY26 loss to ₹137 Cr and adds Stella McCartney and Fabletics**
+Reliance Brands' FY26 revenue rose 3.8% to ₹3,390.9 Cr, and its net loss narrowed to ₹137 Cr from ₹237 Cr in FY25. It added Stella McCartney and Kurt Geiger to its portfolio and entered athleisure through a master franchise partnership with Fabletics.
+*Source: ET Retail, Daily Excelsior, Lapaas Voice*
+
+**Indian startups raised $290 Mn across 23 deals this week**
+Indian startups raised $290 Mn across 23 deals in the week of 16–21 November, up from $31.3 Mn the week before. Consumer-brand rounds included Henfruit's $15 Mn Series A led by Lok Capital, Shree Anandhaas' ₹110 Cr led by Ayra Ventures, and Fatehpuria Hygiene's ₹100 Cr maiden round led by Madhu Kela.
+*Source: Entrackr*
+
+**Swish's FY26 revenue jumps over 10X to ₹47.6 Cr as loss widens to ₹91 Cr**
+Swish, a 10-minute food delivery startup, reported FY26 operating revenue of ₹47.6 Cr, up more than 10X from about ₹4 Cr in FY25, with total income crossing ₹50 Cr. Its net loss widened to ₹91.1 Cr from about ₹19 Cr, as expenses rose around 5X.
+*Source: Inc42, Lapaas Voice*
+
+**Voltas and Atomberg sign joint venture agreement to make AC compressors**
+Voltas signed the definitive agreement for a 50:50 joint venture with Atomberg on 19 November, following a binding term sheet in August. Each partner will invest up to ₹100 Cr through Atomberg Airtech, the venture company. The planned Chennai plant targets about 2.8 million room AC compressors a year. Voltas will be the anchor customer, and the venture can also sell to other AC brands. Closing is subject to conditions precedent.
+*Source: Inc42, Sahi*
+
+**FarEye helps Flipkart Wholesale cut logistics costs by 6%**
+FarEye says it helped Flipkart Wholesale, Flipkart's B2B cash-and-carry business, cut logistics spend by 6% and vehicle use by 8%. Digitising dispatch, routing, compliance and payments reduced idle time by 10% and return-to-origin rates by 1%. The figures cover Flipkart Wholesale's network only.
+*Source: Business Standard, YourStory*
+
+**Bewakoof co-founder Prabhkiran Singh launches AI shopping assistant Save8**
+Prabhkiran Singh, co-founder of Bewakoof, has launched Save8, an AI shopping assistant that compares prices, coupons, cashback and payment discounts across 1,000+ ecommerce and quick commerce stores. It is available on the web and as mobile apps, and it shows available offers rather than applying them automatically. Its revenue model hasn't been disclosed.
+*Source: Inc42, Lapaas Voice*
+
+**Ubalance Naturals' men's health portfolio grows 250% in 18 months**
+Ubalance Naturals says its men's health portfolio, led by its Black Thunder Active range, has grown 250% in 18 months. The brand sells nine products across six wellness categories, is betting on quick commerce, particularly Blinkit, and targets ₹100 Cr revenue by FY2030.
+*Source: ET Retail, Indian Retailer*
+
+**Blinkit delivery partner says he earned ₹39,000 in his first month in Chandigarh**
+A Blinkit delivery partner in Chandigarh said in a Reddit post that he earned about ₹39,000 in his first month, with weekends, incentives and customer tips making up a large share. He credited Chandigarh's sector layout for quicker deliveries and described 12-hour shifts as physically demanding. The figure is self-reported.
+*Source: News18, Sunday Guardian*

@@ -43,6 +43,7 @@ Do NOT cover war/geopolitics, general India news, or social media trends. If a f
 - **One session per day.** Start a fresh session for each day's brief and daily (or run `/clear` between days). Everything needed carries over through this file and the archive in `output/`; a long-running session re-sends its whole history on every turn, which is the biggest cost.
 - **Search mode:** use `standard` WebSearch by default. Use `extended` only when a standard search for that fact came back empty or off-date.
 - **Don't WebFetch sites that block this agent:** Economic Times, ET Retail, Inc42, Business Standard, Moneycontrol, The Hindu BusinessLine, afaqs!, Indian Retailer, TradingView. Go straight to WebSearch for these.
+- **Entrackr: always check it for the brief, through its RSS feed.** Run `curl -sL https://entrackr.com/rss` in Bash, not WebFetch, which can't reach it. Pick out items from the last 24 to 48 hours, and on Saturdays/Mondays also the weekly funding report. Open individual Entrackr articles with curl too. This needs the session to run in the `ebd-daily-agent` environment, which allows entrackr.com.
 - Reuse facts already gathered in that day's brief instead of searching for them again.
 - **Don't re-search** markets or stories already verified earlier in the same session.
 - **Keep chat output short:** print the brief in full, but for the daily print only the website version and a short flags list. Don't repeat the plain version.
