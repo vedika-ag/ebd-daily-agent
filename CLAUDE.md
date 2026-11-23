@@ -42,8 +42,14 @@ Do NOT cover war/geopolitics, general India news, or social media trends. If a f
 ## Keeping usage low
 - **One session per day.** Start a fresh session for each day's brief and daily (or run `/clear` between days). Everything needed carries over through this file and the archive in `output/`; a long-running session re-sends its whole history on every turn, which is the biggest cost.
 - **Search mode:** use `standard` WebSearch by default. Use `extended` only when a standard search for that fact came back empty or off-date.
-- **Don't WebFetch sites that block this agent:** Economic Times, ET Retail, Inc42, Business Standard, Moneycontrol, The Hindu BusinessLine, afaqs!, Indian Retailer, TradingView. Go straight to WebSearch for these.
-- **Entrackr: always check it for the brief, through its RSS feed.** Run `curl -sL https://entrackr.com/rss` in Bash, not WebFetch, which can't reach it. Pick out items from the last 24 to 48 hours, and on Saturdays/Mondays also the weekly funding report. Open individual Entrackr articles with curl too. This needs the session to run in the `ebd-daily-agent` environment, which allows entrackr.com.
+- **Run in the `ebd-daily-agent` environment.** Its network allowlist is what lets the agent reach news sites. Allowed now: entrackr.com, inc42.com, yourstory.com, retail.economictimes.indiatimes.com, www.business-standard.com, www.storyboard18.com, www.businesstoday.in, www.rediff.com, the420.in, www.deccanherald.com, news.google.com, d2cbrief.com. Not allowed (the environment service refused them): economictimes.indiatimes.com, www.livemint.com, www.moneycontrol.com, www.news18.com.
+- **How to open articles (in this order; never use WebFetch, which can't reach the network here):**
+  1. `python3 tools/fetch.py URL [URL ...]` prints the headline, date, publisher and article text. It tries a plain request, then headless Chromium. Pass all of the day's links in one call.
+  2. If it says the host isn't allowlisted, or the site refused (Business Standard returns "Access Denied" even to the browser), run `python3 tools/feeds.py --search "key words of the headline"` to find the same story on other outlets via Google News, then fetch an allowed one with tools/fetch.py.
+  3. Only then use WebSearch (standard mode).
+  - Cite the outlets you actually read. Prefer the original article's figures over aggregator write-ups.
+- **Finding overnight news for the brief:** run `python3 tools/feeds.py --hours 36` first. It reads the RSS feeds in `tools/feeds.txt` (Entrackr, Inc42, YourStory, ET Retail) and lists the newest items with IST times. On Saturdays and Mondays, look for Entrackr's weekly funding report in it. Use `--grep WORD` to filter. Then use WebSearch only for gaps (Mint, Moneycontrol and Storyboard18 have no usable feed here).
+- **If a fetch is blocked by the network:** don't route around it. Note the host in the flags so Veddika can decide whether to allow it in the environment. Add one host per update; multi-host updates have been rejected.
 - Reuse facts already gathered in that day's brief instead of searching for them again.
 - **Don't re-search** markets or stories already verified earlier in the same session.
 - **Keep chat output short:** print the brief in full, but for the daily print only the website version and a short flags list. Don't repeat the plain version.

@@ -5,28 +5,28 @@ Excerpt: The Pune FDA suspends the food licences of Amazon and BigBasket dark st
 Description:
 
 **Maharashtra FDA suspends Amazon and BigBasket dark store licences in Pune over food safety violations**
-The Pune FDA suspended, with immediate effect, the food licences of two dark stores on Sinhagad Road on 21 November: Amazon's Gajanan Inventories and BigBasket's Innovative Retail Concept. Inspectors found expired laddoos, pedhas, cakes, pav, milk rusk and chutney, along with fungal growth, dusty containers and leaking oil cartons. The action covers only these two stores, not either company's wider operations.
-*Source: Business Today, Deccan Herald, Storyboard18, Punekar News*
+The Pune FDA suspended, with immediate effect, the food licences of two dark stores on Sinhagad Road on 21 November: Amazon's Gajanan Inventories and BigBasket's Innovative Retail Concept. Inspectors found expired laddoos, pedhas, cakes, pav, milk rusk and chutney, along with fungal growth, dust inside food containers, leaking ghee cartons and inadequate pest control. The action covers only these two stores, not either company's wider operations.
+*Source: Business Today*
 
 **Agra Flipkart seller says 550 boxes of shoes came back as worn-out pairs**
-An Agra shoe seller alleges that about 550 boxes of new shoes dispatched to customers through Flipkart were returned containing old, damaged footwear. The complaint was raised through an e-commerce seller association. The DCP of West Agra has directed the Etmadpur police station to investigate, and Flipkart has asked the seller for more information.
+An Agra shoe seller alleges that about 550 boxes of new shoes dispatched to customers through Flipkart were returned containing old, damaged footwear. The case surfaced through a video on X showing boxes of visibly worn-out shoes. The DCP of West Agra has directed the Etmadpur police station to investigate, and Flipkart's support team has asked the seller for details. Responsibility for the swap has not been established.
 *Source: The420.in, Amar Ujala*
 
 **Keralam orders statewide crackdown on fake cosmetics after kidney disease cases**
-Keralam's health minister ordered statewide inspections of fake cosmetics and protein powders on 22 November, after kidney disorders were reported in users of fairness creams. One case involves a 17-year-old in Malappuram who used a cream sold as "F Tune". Shops selling unapproved products will lose their licences permanently, and vloggers who promote them face criminal action. Officials say some consignments enter via the Mangaluru–Kasaragod route and originate in Pakistan.
-*Source: Rediff, Daily Excelsior, The South First*
+Keralam health minister K Muraleedharan ordered statewide inspections of fake cosmetics and protein powders on 22 November. A 17-year-old girl and singer Saleem Kodathoor said they developed membranous nephropathy, a kidney disease, after using fairness creams, and the girl's doctors noted high mercury levels. Shops selling unapproved products will lose their licences permanently, and vloggers who promote them face criminal action. The minister said some products come from Pakistan and the Mangaluru–Kasaragod region and are sold online without manufacturer or expiry details.
+*Source: Rediff*
 
 **Traya's FY26 revenue jumps 73% to ₹585 Cr; loss rises 23% to ₹29 Cr**
-Traya's operating revenue grew 72.6% year-on-year to ₹585 Cr in FY26, while its net loss widened to ₹29 Cr from ₹23.5 Cr. Total expenses rose about 70% to ₹623 Cr. Advertising, at ₹275 Cr, made up about 44% of spending.
+Traya's operating revenue rose about 73% to ₹585.1 Cr in FY26 from ₹338.4 Cr, and total income reached ₹593.2 Cr. Net loss rose 23.4% to ₹29 Cr from ₹23.5 Cr, with an EBITDA loss of about ₹28.1 Cr. The haircare brand runs more than 20 offline centres across Pune, Mumbai, Nagpur and Hyderabad.
 *Source: Inc42, Lapaas Voice*
 
 **ChrysCapital among three PE funds in final race for a minority stake in Hocco**
-Hocco has reportedly shortlisted ChrysCapital, Investcorp and Sofina as final bidders for a minority stake, and all three are conducting due diligence. The deal would sell about 10% through a mix of primary and secondary shares at an estimated ₹4,500 Cr valuation. Existing investor Sauce.vc may sell 1–3%, and KPMG is advising Hocco.
-*Source: ET Retail, Business Review Live*
+Hocco has reportedly shortlisted ChrysCapital, Investcorp and Sofina as final bidders for a minority stake, and all three are conducting due diligence. The deal would sell about 10% through a mix of primary and secondary shares at an estimated ₹4,500 Cr valuation. Existing investor Sauce.vc may sell 1–3%, and KPMG is advising Hocco, which aims for ₹900–1,000 Cr revenue this fiscal.
+*Source: ET Retail*
 
 **Reliance Brands trims FY26 loss to ₹137 Cr and adds Stella McCartney and Fabletics**
-Reliance Brands' FY26 revenue rose 3.8% to ₹3,390.9 Cr, and its net loss narrowed to ₹137 Cr from ₹237 Cr in FY25. It added Stella McCartney and Kurt Geiger to its portfolio and entered athleisure through a master franchise partnership with Fabletics.
-*Source: ET Retail, Daily Excelsior, Lapaas Voice*
+Reliance Brands' FY26 revenue rose 3.77% to ₹3,390.89 Cr, and its loss narrowed to ₹137.04 Cr from ₹233.79 Cr, according to its RoC filing. It added Stella McCartney and Kurt Geiger, entered athleisure through a master franchise with Fabletics, and ran over 1,085 points of sale as of 31 March 2026.
+*Source: ET Retail*
 
 **Indian startups raised $290 Mn across 23 deals this week**
 Indian startups raised $290 Mn across 23 deals in the week of 16–21 November, up from $31.3 Mn the week before. Consumer-brand rounds included Henfruit's $15 Mn Series A led by Lok Capital, Shree Anandhaas' ₹110 Cr led by Ayra Ventures, and Fatehpuria Hygiene's ₹100 Cr maiden round led by Madhu Kela.
@@ -36,21 +36,21 @@ Indian startups raised $290 Mn across 23 deals in the week of 16–21 November, 
 Swish, a 10-minute food delivery startup, reported FY26 operating revenue of ₹47.6 Cr, up more than 10X from about ₹4 Cr in FY25, with total income crossing ₹50 Cr. Its net loss widened to ₹91.1 Cr from about ₹19 Cr, as expenses rose around 5X.
 *Source: Inc42, Lapaas Voice*
 
-**Voltas and Atomberg sign joint venture agreement to make AC compressors**
-Voltas signed the definitive agreement for a 50:50 joint venture with Atomberg on 19 November, following a binding term sheet in August. Each partner will invest up to ₹100 Cr through Atomberg Airtech, the venture company. The planned Chennai plant targets about 2.8 million room AC compressors a year. Voltas will be the anchor customer, and the venture can also sell to other AC brands. Closing is subject to conditions precedent.
-*Source: Inc42, Sahi*
+**Atomberg and Voltas sign joint venture agreement to make AC compressors**
+Atomberg has signed a joint venture agreement with Voltas to make room AC compressors and allied parts in India. Voltas will buy 50% of Atomberg Airtech, the venture company, and each side will invest up to ₹100 Cr in tranches. Voltas will nominate four of the five directors, so the venture becomes a Voltas subsidiary. Reports put the planned Chennai plant at about 2.8 million compressors a year. Closing is subject to conditions in the agreement.
+*Source: Inc42*
 
 **FarEye helps Flipkart Wholesale cut logistics costs by 6%**
 FarEye says it helped Flipkart Wholesale, Flipkart's B2B cash-and-carry business, cut logistics spend by 6% and vehicle use by 8%. Digitising dispatch, routing, compliance and payments reduced idle time by 10% and return-to-origin rates by 1%. The figures cover Flipkart Wholesale's network only.
 *Source: Business Standard, YourStory*
 
 **Bewakoof co-founder Prabhkiran Singh launches AI shopping assistant Save8**
-Prabhkiran Singh, co-founder of Bewakoof, has launched Save8, an AI shopping assistant that compares prices, coupons, cashback and payment discounts across 1,000+ ecommerce and quick commerce stores. It is available on the web and as mobile apps, and it shows available offers rather than applying them automatically. Its revenue model hasn't been disclosed.
+Prabhkiran Singh, who led Bewakoof for nearly 14 years, has launched Save8, an AI shopping assistant that compares prices, coupons, cashback, discounted gift cards and bank offers across 1,000+ online stores, including Amazon, Flipkart, Myntra, Zepto, Blinkit and Instamart. Users paste a product link or add "save8.ai/" before the URL. Singh is reportedly in talks with investors including All In Capital to raise funds.
 *Source: Inc42, Lapaas Voice*
 
 **Ubalance Naturals' men's health portfolio grows 250% in 18 months**
-Ubalance Naturals says its men's health portfolio, led by its Black Thunder Active range, has grown 250% in 18 months. The brand sells nine products across six wellness categories, is betting on quick commerce, particularly Blinkit, and targets ₹100 Cr revenue by FY2030.
-*Source: ET Retail, Indian Retailer*
+Ubalance Naturals says its men's health portfolio has grown 250% over the past 18 months, with a 48% repeat purchase rate, and these products make up 40% of its revenue. It plans five to six new SKUs in the next 12 months and aims for ₹100 Cr annual revenue by FY30. It cites a projection that India's men's health supplements market will reach $22.71 Bn by 2033.
+*Source: ET Retail*
 
 **Blinkit delivery partner says he earned ₹39,000 in his first month in Chandigarh**
 A Blinkit delivery partner in Chandigarh said in a Reddit post that he earned about ₹39,000 in his first month, with weekends, incentives and customer tips making up a large share. He credited Chandigarh's sector layout for quicker deliveries and described 12-hour shifts as physically demanding. The figure is self-reported.

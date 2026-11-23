@@ -1,0 +1,9 @@
+# name | RSS/Atom URL   (one per line; lines starting with # are skipped)
+# Each host must be on the ebd-daily-agent environment's network allowlist.
+Entrackr | https://entrackr.com/rss
+Inc42 | https://inc42.com/feed/
+YourStory | https://yourstory.com/feed
+ET Retail | https://retail.economictimes.indiatimes.com/rss/topstories
+# Not usable as feeds (checked 23 Nov 2026): Storyboard18 (no RSS at the usual path),
+# Business Standard (feed returns 403), Business Today (feed is mostly general news).
+# Their article pages still open with tools/fetch.py.
