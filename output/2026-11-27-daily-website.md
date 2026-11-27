@@ -1,0 +1,77 @@
+Title: Supreme Court Orders Separate Fat, Sugar and Salt Warnings on Packaged Food, ONDC Takes On Quick Commerce With NearU & India Post Gets ₹1,141 Cr for Ecommerce Logistics
+
+Excerpt: The Supreme Court orders a separate front-of-pack warning for each of high fat, sugar and salt, ONDC plans a Delhi pilot of NearU that routes orders to local stores within 4–5 km, and the Cabinet clears ₹1,141 crore to modernise India Post, including ₹278 crore for parcel hubs.
+
+Description:
+
+**Supreme Court orders separate front-of-pack warnings for high fat, sugar and salt**
+The court directed the Centre and FSSAI to require a separate pictorial hexagon for each nutrient over the limit ("HIGH FAT", "HIGH SUGAR", "HIGH SALT"), rejecting FSSAI's single-badge plan. Before the verdict, FSSAI had sought about four months to finalise draft rules and proposed a 365-day voluntary period after notification. At least 20 D2C food brands have received FSSAI notices since May over sugar and "natural" claims.
+*Source: Inc42*
+
+**ONDC takes on quick commerce with NearU, betting on local stores for delivery**
+ONDC plans to pilot NearU in parts of Delhi as soon as next month. Orders go to neighbourhood stores within about 4–5 km instead of dark stores, and local retailers can claim them after a 30-minute window. The first phase covers electronics only: four-hour delivery for mobile phones and next-day delivery for appliances such as air purifiers. ONDC is onboarding 70–80 stores, including the Hotspot chain, and a bidding system for buyers and sellers is planned for a second phase.
+*Source: Business Standard, MediaNama*
+
+**India Post gets ₹1,141 Cr to modernise its network and expand ecommerce logistics**
+The Cabinet approved the Postal Operations Scheme for FY27 to FY31. It allocates ₹575 Cr to mail network optimisation, ₹278 Cr to new parcel hubs and packaging units, and ₹120 Cr to rural business access. The Cabinet also approved a ₹1,491 Cr estates scheme, which will upgrade 5,050 post offices. India Post runs about 1.65 lakh post offices, roughly 1.49 lakh of them rural.
+*Source: Livemint, The 420, Deccan Herald*
+
+**Walmart International CEO Chris Nicholas may visit India next week for Flipkart's leadership transition**
+The Economic Times reports that Nicholas may travel to India next week as Flipkart prepares to name a successor to Group CEO Kalyan Krishnamurthy, who is stepping down after more than 11 years. Until a permanent CEO is announced, Chief Product and Technology Officer Balaji Thiagarajan and the board are running the company. Nicholas has declined to give a timeline for Flipkart's IPO.
+*Source: Economic Times, Inc42, Business Today*
+
+**D2C firms expect double-digit sales growth on Black Friday, 27 November**
+Business Standard reports that D2C brands are expecting double-digit sales growth from today's Black Friday sale. Financial Express reports that retailers are deepening Black Friday discounts to drive post-Diwali sales.
+*Source: Business Standard, Financial Express*
+
+**AI tools help brands curb Black Friday deals, from clothes to skincare**
+The Hindu reports that brands are using AI tools to limit how deep their Black Friday discounts go in categories from apparel to skincare. US coverage the same week describes retailers using pricing algorithms to shrink markdowns even as more shoppers use AI to hunt for deals.
+*Source: The Hindu, Financial Express*
+
+**Amazon workers plan strikes and protests on Black Friday and Cyber Monday**
+Under the Make Amazon Pay campaign, Amazon workers and supporters plan to strike and protest in more than 20 countries. UNI Global Union announced the action alongside the first North American collective agreement won by Amazon workers.
+*Source: Engadget, UNI Global Union*
+
+**Snabbit, Swish and FirstClub spend big to build demand in their first full year**
+Snabbit's FY26 operating revenue was ₹12.25 Cr, its net loss ₹167.75 Cr and its marketing spend about ₹48.7 Cr. Swish's revenue rose 11.9x to ₹47.6 Cr while its loss rose 4.8x to ₹91 Cr, on total expenses of ₹144.8 Cr. FirstClub reported ₹64 Cr in revenue and a ₹97.5 Cr loss in its first year of operations.
+*Source: Economic Times, Entrackr, YourStory*
+
+**Urban Company enters the AC market with Native, opens pre-bookings at ₹55,499**
+The Native AC Ultra and Ultra Air ranges are sold only through the Urban Company app. They are rated to cool a room to 24°C in 21 minutes and to keep cooling at full capacity at 47°C. Buyers get a five-year unconditional warranty covering gas refills and a 10-year compressor warranty. Urban Company says the design draws on 1.8 Cr AC service and repair jobs.
+*Source: Business Standard, Inc42, ET Retail*
+
+**Marico launches Joyun to expand its digital-first skincare portfolio**
+Plix built Joyun, a Korean beauty-inspired brand with 13 dermatologically tested products in two lines, Centella and Rose PDRN. Marico's digital-first portfolio had a revenue run rate of about ₹1,150 Cr in Q2 FY27. Its consolidated September-quarter revenue rose 13% to ₹3,897 Cr.
+*Source: Indian Television, Storyboard18*
+
+**Nykaa brings Dutch beauty brand Gisou to India in an exclusive partnership**
+Nykaa will be Gisou's exclusive importer and retail partner in India. The brand will be sold only on Nykaa.com and in select Nykaa stores. The launch range includes its Honey Infused Hair Oil, Honey Gloss Ceramide Therapy Hair Mask, Leave-In Conditioner and Lip Oils. Nykaa had 65 Mn+ customers and 338 offline beauty destinations as of 30 September.
+*Source: ET Retail*
+
+**GIVA raises ₹90 Cr in debt from BlackSoil for retail expansion**
+This is the jewellery brand's second fundraise in November, after a $100 Mn+ round led by Multiples. The debt will fund store capex and working capital. GIVA has 400+ stores in 80+ cities and reported revenue of about ₹865 Cr for FY26.
+*Source: Entrackr*
+
+**ECCO India targets 50 stores by 2028 and 65% CAGR through 2030**
+The Danish footwear brand has 14 partner-run stores now and expects 25 by December 2027. Ecommerce, including Myntra, Nykaa, Amazon and Tata CLiQ Luxury, makes up about 30% of sales and could reach 50% if that growth comes at full price. ECCO says delays in BIS licensing are limiting product availability.
+*Source: ET Retail*
+
+**India's protein startup funding hits $46 Mn in 2026, but deal count falls sharply**
+Protein-focused startups in India have raised $46 Mn so far in 2026, but across fewer funding rounds, according to BusinessLine. Fortune India, reporting the same data, says Gurugram-based startups lead the funding.
+*Source: The Hindu BusinessLine, Fortune India*
+
+**P&G Home Products' FY26 profit falls 2.7% to ₹664.8 Cr as revenue rises 3.4%**
+Revenue from operations at the unlisted unit, whose brands include Ariel, Tide, Pampers and Pantene, was ₹9,359.34 Cr. Royalty paid to the US parent rose 5.17% to ₹431.39 Cr, and total expenses rose 3.95% to ₹8,621.13 Cr.
+*Source: Economic Times, ET Retail*
+
+**IndiaMART settles its legal dispute with OpenAI**
+Earlier, the Calcutta High Court had refused IndiaMART interim relief. The court held that IndiaMART had no prima facie right to visibility on ChatGPT, and that lost traffic alone was not a legal injury. IndiaMART had appealed, then dropped the appeal after an out-of-court settlement. Its shares closed 0.75% higher at ₹1,531.05.
+*Source: Inc42*
+
+**Namma Yatri's revenue grows 89% to ₹37.5 Cr in FY26, losses narrow 15%**
+Operating revenue for the zero-commission auto and cab platform rose from ₹19.8 Cr in FY25. Its net loss narrowed to ₹43.8 Cr from ₹51.4 Cr. Total expenses rose 11.2% to ₹83.3 Cr, of which employee costs were ₹34.5 Cr and ad spend rose 38% to ₹16.7 Cr. It spent ₹2.22 to earn every rupee of operating revenue.
+*Source: Entrackr*
+
+**Finnable raises ₹405 Cr in Series C from Bharat Value Fund, the Kamath brothers and others**
+Investors in the round include Pratithi Investments (Kris Gopalakrishnan), NKSquared, TVS Capital and Claypond Capital. The lender's assets under management have crossed ₹4,600 Cr, up from about ₹3,000 Cr a year ago, and it posted a ₹51 Cr profit after tax in H1 FY27. In FY25 it reported revenue of ₹278.49 Cr and a profit of ₹6.74 Cr.
+*Source: Entrackr*
